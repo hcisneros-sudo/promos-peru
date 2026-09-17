@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-17T14:57:48.677492+00:00",
+  "promotions": 2059,
+  "mappedLocations": 2851,
+  "uncompressedBytes": 5542285,
+  "compressedBytes": 759850,
+  "sha256": "738c28f5faba84b0ba05b2e50810cd3ca5e1039940d3a429a6e296965c49617b",
+  "parts": [
+    "part-001.bin",
+    "part-002.bin",
+    "part-003.bin",
+    "part-004.bin",
+    "part-005.bin",
+    "part-006.bin",
+    "part-007.bin",
+    "part-008.bin"
+  ]
+}

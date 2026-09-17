@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#08263b">
+  <meta name="description" content="Busca promociones bancarias del Perú por banco, categoría, distrito y cercanía.">
+  <title>Promos Perú</title>
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="icon" href="./icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="./icons/icon-192.png">
+  <link rel="preconnect" href="https://unpkg.com">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="./" aria-label="Promos Perú, inicio">
+      <span class="brand-icon">%</span>
+      <span><b>Promos Perú</b><small>Beneficios bancarios</small></span>
+    </a>
+    <button id="installButton" class="install" hidden>Instalar app</button>
+  </header>
+
+  <section class="hero">
+    <div>
+      <p id="catalogStatus" class="eyebrow">Cargando catálogo…</p>
+      <h1>Encuentra el beneficio que tienes cerca</h1>
+    </div>
+    <label class="search"><span>⌕</span><input id="query" type="search" placeholder="Restaurante, tienda o beneficio" autocomplete="off"></label>
+  </section>
+
+  <main>
+    <section class="filters" aria-label="Filtros de promociones">
+      <select id="bank" aria-label="Banco"><option value="">Todos los bancos</option></select>
+      <select id="category" aria-label="Categoría"><option value="">Todas las categorías</option></select>
+      <select id="subcategory" aria-label="Subcategoría"><option value="">Todas las subcategorías</option></select>
+      <select id="district" aria-label="Distrito"><option value="">Todos los distritos</option></select>
+      <select id="status" aria-label="Estado"><option value="">Todos los estados</option></select>
+      <button id="nearButton" class="near">◎ Cerca de mí</button>
+      <button id="clearButton" class="clear">Limpiar</button>
+    </section>
+    <p id="message" class="message" role="status"></p>
+
+    <section class="results-head">
+      <div><strong id="resultCount">0 promociones</strong><span id="mapCount">0 locales en mapa</span></div>
+      <div class="tabs"><button id="listTab" class="active">☷ Lista</button><button id="mapTab">⌖ Mapa</button></div>
+    </section>
+
+    <section id="loading" class="state">Cargando promociones…</section>
+    <section id="listView" class="cards" hidden></section>
+    <section id="mapView" class="map-wrap" hidden><div id="map"></div><p id="mapLimit" class="map-limit"></p></section>
+    <button id="moreButton" class="more" hidden>Mostrar más</button>
+  </main>
+
+  <dialog id="detailDialog">
+    <button id="closeDialog" class="close-dialog" aria-label="Cerrar">×</button>
+    <div id="detailContent"></div>
+  </dialog>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script type="module" src="./app.js"></script>
+</body>
+</html>

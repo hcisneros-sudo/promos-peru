@@ -1,0 +1,116 @@
+[
+  {
+    "nombre": "Jockey Plaza",
+    "alias": ["Jockey Plaza", "CC Jockey Plaza"],
+    "consulta": "Av. Javier Prado Este 4200, Santiago de Surco, Lima, Perú",
+    "distrito": "Santiago de Surco",
+    "provincia": "Lima",
+    "departamento": "Lima"
+  },
+  {
+    "nombre": "Mall del Sur",
+    "alias": ["Mall del Sur", "Mall del Sur Atocongo"],
+    "consulta": "Av. Los Lirios 301, San Juan de Miraflores, Lima, Perú",
+    "distrito": "San Juan de Miraflores",
+    "provincia": "Lima",
+    "departamento": "Lima"
+  },
+  {
+    "nombre": "Real Plaza Primavera",
+    "alias": ["Real Plaza Primavera", "Primavera Real Plaza"],
+    "consulta": "Av. Angamos Este 2681, San Borja, Lima, Perú",
+    "distrito": "San Borja",
+    "provincia": "Lima",
+    "departamento": "Lima"
+  },
+  {
+    "nombre": "Real Plaza Salaverry",
+    "alias": ["Real Plaza Salaverry", "CC Real Plaza Salaverry"],
+    "consulta": "Av. General Felipe Salaverry 2370, Jesús María, Lima, Perú",
+    "distrito": "Jesús María",
+    "provincia": "Lima",
+    "departamento": "Lima"
+  },
+  {
+    "nombre": "Real Plaza Puruchuco",
+    "alias": ["Real Plaza Puruchuco"],
+    "consulta": "Av. Nicolás Ayllón 4770, Ate, Lima, Perú",
+    "distrito": "Ate",
+    "provincia": "Lima",
+    "departamento": "Lima"
+  },
+  {
+    "nombre": "Plaza Norte",
+    "alias": ["Plaza Norte", "Centro Comercial Plaza Norte", "CC Plaza Norte"],
+    "consulta": "Av. Alfredo Mendiola 1400, Independencia, Lima, Perú",
+    "distrito": "Independencia",
+    "provincia": "Lima",
+    "departamento": "Lima"
+  },
+  {
+    "nombre": "MegaPlaza",
+    "alias": ["Mega Plaza", "MegaPlaza", "Centro Comercial Mega Plaza"],
+    "consulta": "Av. Alfredo Mendiola 3698, Independencia, Lima, Perú",
+    "distrito": "Independencia",
+    "provincia": "Lima",
+    "departamento": "Lima"
+  },
+  {
+    "nombre": "Plaza San Miguel",
+    "alias": ["Plaza San Miguel", "CC Plaza San Miguel"],
+    "consulta": "Av. La Marina 2000, San Miguel, Lima, Perú",
+    "distrito": "San Miguel",
+    "provincia": "Lima",
+    "departamento": "Lima"
+  },
+  {
+    "nombre": "Plaza Lima Sur",
+    "alias": ["Plaza Lima Sur", "CC Plaza Lima Sur"],
+    "consulta": "Prolongación Paseo de la República, Chorrillos, Lima, Perú",
+    "distrito": "Chorrillos",
+    "provincia": "Lima",
+    "departamento": "Lima"
+  },
+  {
+    "nombre": "Mall Aventura Santa Anita",
+    "alias": ["Mall Aventura Santa Anita", "Mall Aventura Plaza Santa Anita"],
+    "consulta": "Carretera Central 111, Santa Anita, Lima, Perú",
+    "distrito": "Santa Anita",
+    "provincia": "Lima",
+    "departamento": "Lima"
+  },
+  {
+    "nombre": "Mallplaza Bellavista",
+    "alias": ["Mall Bellavista", "Mallplaza Bellavista", "Mall Plaza Bellavista"],
+    "consulta": "Av. Óscar R. Benavides 3866, Bellavista, Callao, Perú",
+    "distrito": "Bellavista",
+    "provincia": "Callao",
+    "departamento": "Callao"
+  },
+  {
+    "nombre": "Mallplaza Huancayo",
+    "alias": ["Mall Plaza Huancayo", "Mallplaza Huancayo"],
+    "consulta": "Prolongación San Carlos 107, Huancayo, Junín, Perú",
+    "distrito": "Huancayo",
+    "provincia": "Huancayo",
+    "departamento": "Junín"
+  },
+  {
+    "nombre": "El Quinde Cajamarca",
+    "alias": ["El Quinde Cajamarca", "CC El Quinde Cajamarca"],
+    "contiene": ["El Quinde", "Cajamarca"],
+    "consulta": "Jr. Sor Manuela Gil 151, Cajamarca, Perú",
+    "distrito": "Cajamarca",
+    "provincia": "Cajamarca",
+    "departamento": "Cajamarca"
+  },
+  {
+    "nombre": "El Quinde Ica",
+    "alias": ["El Quinde Ica", "CC El Quinde Ica"],
+    "contiene": ["El Quinde", "Ica"],
+    "consulta": "Av. Los Maestros 206, Ica, Perú",
+    "distrito": "Ica",
+    "provincia": "Ica",
+    "departamento": "Ica"
+  }
+]
