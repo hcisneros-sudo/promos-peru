@@ -9,8 +9,7 @@
   <link rel="manifest" href="./manifest.webmanifest">
   <link rel="icon" href="./icons/icon.svg" type="image/svg+xml">
   <link rel="apple-touch-icon" href="./icons/icon-192.png">
-  <link rel="preconnect" href="https://unpkg.com">
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="./vendor/leaflet/leaflet.css">
   <link rel="stylesheet" href="./styles.css">
 </head>
 <body>
@@ -44,12 +43,16 @@
 
     <section class="results-head">
       <div><strong id="resultCount">0 promociones</strong><span id="mapCount">0 locales en mapa</span></div>
-      <div class="tabs"><button id="listTab" class="active">☷ Lista</button><button id="mapTab">⌖ Mapa</button></div>
+      <div class="tabs">
+        <button id="listTab" class="active">☷ Lista</button>
+        <button id="mapTab">⌖ Mapa</button>
+        <button id="favoritesTab">♡ Favoritos <span id="favoriteCount">0</span></button>
+      </div>
     </section>
 
     <section id="loading" class="state">Cargando promociones…</section>
     <section id="listView" class="cards" hidden></section>
-    <section id="mapView" class="map-wrap" hidden><div id="map"></div><p id="mapLimit" class="map-limit"></p></section>
+    <section id="mapView" class="map-wrap" hidden><div id="map"></div><p id="mapError" class="map-error" hidden></p><p id="mapLimit" class="map-limit"></p></section>
     <button id="moreButton" class="more" hidden>Mostrar más</button>
   </main>
 
@@ -58,7 +61,7 @@
     <div id="detailContent"></div>
   </dialog>
 
-  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="./vendor/leaflet/leaflet.js"></script>
   <script type="module" src="./app.js"></script>
 </body>
 </html>
