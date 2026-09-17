@@ -1,0 +1,46 @@
+{
+  "fecha_generacion": "2026-09-17T09:45:41",
+  "total_promociones": 2059,
+  "filas_promociones_origen": 2084,
+  "promociones_duplicadas_eliminadas": 25,
+  "total_registros_maestros": 6149,
+  "total_locales": 5162,
+  "promociones_sin_local": 987,
+  "locales_listos_mapa": 2952,
+  "locales_pendientes": 2210,
+  "coordenadas_heredadas": 44,
+  "casos_revision_api": 916,
+  "observaciones_calidad": 2197,
+  "duplicados_probables": 273,
+  "estado_mapa": {
+    "SIN LOCAL REGISTRADO": 723,
+    "REVISAR - ORIGEN": 1334,
+    "LISTO - COORDENADA": 2908,
+    "REVISAR - API": 876,
+    "SIN LOCAL - ONLINE/NACIONAL": 264,
+    "LISTO - HEREDADA": 44
+  },
+  "promociones_por_banco": {
+    "Interbank": 339,
+    "BanBif": 348,
+    "Tarjeta Cencosud": 383,
+    "SIP": 303,
+    "Banco Falabella": 224,
+    "Banco Ripley": 462
+  },
+  "promociones_por_categoria": {
+    "Tecnología y electro": 16,
+    "Servicios": 113,
+    "Educación": 35,
+    "Gastronomía": 765,
+    "Supermercados y alimentos": 207,
+    "Hogar": 75,
+    "Viajes y transporte": 157,
+    "Moda y accesorios": 180,
+    "Salud y bienestar": 178,
+    "Otros": 190,
+    "Entretenimiento": 98,
+    "Mascotas": 37,
+    "Compras": 8
+  }
+}
