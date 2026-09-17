@@ -5,6 +5,12 @@ on:
     # Domingo, 6:20 a. m. en Perú (UTC-5).
     - cron: "20 11 * * 0"
   workflow_dispatch:
+    inputs:
+      regeocodificar_todo:
+        description: "Regeocodificar todas las direcciones desde cero"
+        required: false
+        default: false
+        type: boolean
 
 permissions:
   contents: write
@@ -16,10 +22,11 @@ concurrency:
 jobs:
   actualizar:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 180
     env:
       GEOAPIFY_API_KEY: ${{ secrets.GEOAPIFY_API_KEY }}
       CLUBHOLA_DNI: ${{ secrets.CLUBHOLA_DNI }}
+      REGEOCODIFICAR_TODO: ${{ github.event_name == 'workflow_dispatch' && inputs.regeocodificar_todo && 'true' || 'false' }}
       PYTHONUNBUFFERED: "1"
     steps:
       - uses: actions/checkout@v6
@@ -40,7 +47,20 @@ jobs:
       - name: Recuperar coordenadas y consultar direcciones nuevas
         shell: bash
         run: |
-          if [[ -n "$GEOAPIFY_API_KEY" ]]; then
+          if [[ "$REGEOCODIFICAR_TODO" == "true" && -z "$GEOAPIFY_API_KEY" ]]; then
+            echo "No se puede ejecutar la regeocodificación completa sin GEOAPIFY_API_KEY."
+            exit 1
+          elif [[ "$REGEOCODIFICAR_TODO" == "true" ]]; then
+            echo "Regeocodificación completa: se usará una caché nueva y aislada."
+            python scripts/geocodificar_locales.py \
+              --entrada work/salida/locales.json \
+              --salida work/salida/locales_geocodificados.json \
+              --revision work/revision_geocodificacion.json \
+              --geojson work/salida/locales_mapa.geojson \
+              --cache work/geocodificacion_nueva.sqlite \
+              --lugares scripts/lugares_conocidos.json \
+              --desde-cero
+          elif [[ -n "$GEOAPIFY_API_KEY" ]]; then
             python scripts/geocodificar_locales.py \
               --entrada work/salida/locales.json \
               --salida work/salida/locales_geocodificados.json \
@@ -72,11 +92,15 @@ jobs:
             --current site/data \
             --summary work/final/resumen_maestro.json
       - name: Incorporar el catálogo validado
+        shell: bash
         run: |
           rsync -a --delete work/site-data/ site/data/
           cp work/final/resumen_maestro.json reports/resumen_maestro.json
           cp work/revision_geocodificacion.json reports/revision_geocodificacion.json
           gzip -9 -n -c work/salida/locales_geocodificados.json > data/geocoding/locales_geocodificados.json.gz
+          if [[ "$REGEOCODIFICAR_TODO" == "true" ]]; then
+            cp work/geocodificacion_nueva.sqlite data/geocoding/geocodificacion_cache.sqlite
+          fi
       - name: Guardar actualización
         run: |
           git config user.name "promos-peru-bot"
