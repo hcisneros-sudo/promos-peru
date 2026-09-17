@@ -4,7 +4,7 @@ on:
   push:
     branches: [main]
     paths:
-      - promos-peru-update.zip
+      - promos-peru-update-2.zip
 
 permissions:
   contents: write
@@ -16,9 +16,9 @@ jobs:
       - uses: actions/checkout@v6
       - name: Incorporar archivos validados
         run: |
-          unzip -o promos-peru-update.zip
-          rm promos-peru-update.zip
-          rm .github/workflows/apply-update.yml
+          unzip -o promos-peru-update-2.zip
+          rm promos-peru-update-2.zip
+          rm -f promos-peru-update.zip
       - name: Publicar actualización
         run: |
           git config user.name "promos-peru-bot"
