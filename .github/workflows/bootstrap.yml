@@ -1,0 +1,28 @@
+name: Importar proyecto completo
+
+on:
+  push:
+    paths:
+      - promos-peru-github.zip
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  importar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - name: Expandir proyecto
+        run: |
+          unzip -oq promos-peru-github.zip
+          rm promos-peru-github.zip
+          rm .github/workflows/bootstrap.yml
+      - name: Confirmar archivos
+        run: |
+          git config user.name "promos-peru-bot"
+          git config user.email "promos-peru-bot@users.noreply.github.com"
+          git add -A
+          git commit -m "Publicar PWA Promos Perú"
+          git push
