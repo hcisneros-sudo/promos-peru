@@ -1,0 +1,28 @@
+name: Aplicar actualización de la aplicación
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - promos-peru-update.zip
+
+permissions:
+  contents: write
+
+jobs:
+  aplicar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - name: Incorporar archivos validados
+        run: |
+          unzip -o promos-peru-update.zip
+          rm promos-peru-update.zip
+          rm .github/workflows/apply-update.yml
+      - name: Publicar actualización
+        run: |
+          git config user.name "promos-peru-bot"
+          git config user.email "promos-peru-bot@users.noreply.github.com"
+          git add -A
+          git commit -m "Corregir mapa, añadir favoritos y mejorar actualización"
+          git push
