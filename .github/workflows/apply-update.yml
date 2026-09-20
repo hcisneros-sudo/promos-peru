@@ -1,0 +1,29 @@
+name: Aplicar actualización preparada por Work
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - promos-peru-work-update.zip
+
+permissions:
+  contents: write
+
+jobs:
+  aplicar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - name: Incorporar archivos preparados
+        run: |
+          unzip -o promos-peru-work-update.zip
+          rm -f promos-peru-work-update.zip
+          rm -f .github/workflows/actualizar-promociones.yml
+          rm -f .github/workflows/apply-update.yml
+      - name: Publicar actualización
+        run: |
+          git config user.name "promos-peru-bot"
+          git config user.email "promos-peru-bot@users.noreply.github.com"
+          git add -A
+          git commit -m "Preparar buscador con maestro de ChatGPT Work"
+          git push
