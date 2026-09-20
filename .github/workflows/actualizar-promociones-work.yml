@@ -32,6 +32,7 @@ jobs:
       - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
+
       - name: Preparar caché aislada
         shell: bash
         run: |
@@ -41,6 +42,7 @@ jobs:
           else
             echo '{}' > work/cache/work_queries.json
           fi
+
       - name: Procesar el maestro preparado por Work
         shell: bash
         run: |
@@ -57,26 +59,51 @@ jobs:
             --salida work/site-data \
             --catalogo-actual site/data \
             --cache work/cache/work_queries.json \
+            --errores-geoapify reports/errores_geoapify.json \
             "${EXTRA_ARGS[@]}"
+
+      - name: Guardar avance de geocodificación
+        if: ${{ always() }}
+        shell: bash
+        run: |
+          if [[ ! -f reports/errores_geoapify.json ]]; then
+            echo "El procesador no alcanzó a generar un checkpoint; no se modifica la caché persistente."
+            exit 0
+          fi
+
+          cp work/cache/work_queries.json data/geocoding/work_queries.json
+          git config user.name "promos-peru-bot"
+          git config user.email "promos-peru-bot@users.noreply.github.com"
+          git add data/geocoding/work_queries.json reports/errores_geoapify.json
+
+          if git diff --cached --quiet; then
+            echo "No hay avance nuevo de geocodificación para guardar."
+          else
+            git commit -m "Guardar avance de geocodificación $(date -u +%Y-%m-%d)"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
+
       - name: Impedir una publicación incompleta o regresiva
         run: |
           python scripts/validar_publicacion.py \
             --candidate work/site-data \
             --current site/data \
             --master data/input/promociones_maestro.json.gz
+
       - name: Incorporar catálogo validado
         run: |
           rsync -a --delete work/site-data/ site/data/
           cp work/cache/work_queries.json data/geocoding/work_queries.json
           cp site/data/catalog-manifest.json reports/catalog-manifest.json
+
       - name: Guardar actualización
         run: |
           git config user.name "promos-peru-bot"
           git config user.email "promos-peru-bot@users.noreply.github.com"
-          git add site/data data/geocoding/work_queries.json reports/catalog-manifest.json
+          git add site/data data/geocoding/work_queries.json reports/catalog-manifest.json reports/errores_geoapify.json
           if git diff --cached --quiet; then
             echo "No hay cambios para publicar."
           else
             git commit -m "Publicar maestro de promociones $(date -u +%Y-%m-%d)"
-            git push
+            git push origin "HEAD:${GITHUB_REF_NAME}"
           fi
