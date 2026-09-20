@@ -30,14 +30,31 @@
   </section>
 
   <main>
-    <section class="filters" aria-label="Filtros de promociones">
-      <select id="bank" aria-label="Banco"><option value="">Todos los bancos</option></select>
-      <select id="category" aria-label="Categoría"><option value="">Todas las categorías</option></select>
-      <select id="subcategory" aria-label="Subcategoría"><option value="">Todas las subcategorías</option></select>
-      <select id="district" aria-label="Distrito"><option value="">Todos los distritos</option></select>
-      <select id="status" aria-label="Estado"><option value="">Todos los estados</option></select>
-      <button id="nearButton" class="near">◎ Cerca de mí</button>
-      <button id="clearButton" class="clear">Limpiar</button>
+    <section class="filter-shell" aria-label="Filtros de promociones">
+      <div class="primary-filters">
+        <details class="multi-filter"><summary><span>Banco</span><b id="bankLabel">Todos</b></summary><div id="bankOptions" class="multi-options"></div></details>
+        <details class="multi-filter"><summary><span>Categoría</span><b id="categoryLabel">Todos</b></summary><div id="categoryOptions" class="multi-options"></div></details>
+        <details class="advanced">
+          <summary>Más filtros <span id="advancedCount" class="filter-count" hidden></span></summary>
+          <div class="advanced-panel">
+            <div class="advanced-grid">
+              <details class="multi-filter"><summary><span>Subcategoría</span><b id="subcategoryLabel">Todos</b></summary><div id="subcategoryOptions" class="multi-options"></div></details>
+              <details class="multi-filter"><summary><span>Estado</span><b id="statusLabel">Todos</b></summary><div id="statusOptions" class="multi-options"></div></details>
+              <details class="multi-filter"><summary><span>Departamento</span><b id="departmentLabel">Todos</b></summary><div id="departmentOptions" class="multi-options"></div></details>
+              <details class="multi-filter"><summary><span>Provincia</span><b id="provinceLabel">Todos</b></summary><div id="provinceOptions" class="multi-options"></div></details>
+              <details class="multi-filter"><summary><span>Distrito</span><b id="districtLabel">Todos</b></summary><div id="districtOptions" class="multi-options"></div></details>
+              <details class="multi-filter"><summary><span>Día</span><b id="dayLabel">Todos</b></summary><div id="dayOptions" class="multi-options"></div></details>
+            </div>
+            <div class="range-filter">
+              <div><span>Porcentaje de descuento</span><b id="discountValue">0% – 100%</b></div>
+              <div class="dual-range"><input id="discountMin" type="range" min="0" max="100" value="0" aria-label="Descuento mínimo"><input id="discountMax" type="range" min="0" max="100" value="100" aria-label="Descuento máximo"></div>
+              <small>Se activa al mover cualquiera de las dos barras y muestra solo descuentos porcentuales.</small>
+            </div>
+          </div>
+        </details>
+        <button id="nearButton" class="near">◎ Cerca de mí</button>
+        <button id="clearButton" class="clear">Limpiar</button>
+      </div>
     </section>
     <p id="message" class="message" role="status"></p>
 
@@ -52,7 +69,7 @@
 
     <section id="loading" class="state">Cargando promociones…</section>
     <section id="listView" class="cards" hidden></section>
-    <section id="mapView" class="map-wrap" hidden><div id="map"></div><p id="mapError" class="map-error" hidden></p><p id="mapLimit" class="map-limit"></p></section>
+    <section id="mapView" class="map-wrap" hidden><div id="map"></div><button id="mapLocateButton" class="locate-map" type="button">◎ Mi ubicación</button><p id="mapError" class="map-error" hidden></p><p id="mapLimit" class="map-limit"></p></section>
     <button id="moreButton" class="more" hidden>Mostrar más</button>
   </main>
 

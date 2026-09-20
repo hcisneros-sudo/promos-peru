@@ -9,7 +9,7 @@ Buscador móvil de promociones bancarias del Perú con filtros por banco, catego
 - Catálogo comprimido y dividido para reducir el tiempo de descarga.
 - Mapa con los establecimientos geocodificados.
 - Favoritos guardados en el propio celular o navegador.
-- Actualización automática cada domingo a las 6:20 a. m. (hora de Perú).
+- Actualización mensual desde la base maestra preparada y revisada en ChatGPT Work.
 - Validación previa para impedir la publicación de bases vacías o incompletas.
 
 ## Fuentes
@@ -23,31 +23,24 @@ Configurar en **Settings → Secrets and variables → Actions**:
 - `GEOAPIFY_API_KEY`: geocodifica solamente direcciones que no estén en el historial.
 - `CLUBHOLA_DNI`: permite consultar el catálogo autenticado de ClubHOLA. Nunca se guarda en el código ni en los archivos públicos.
 
-El historial de direcciones y coordenadas se conserva comprimido en el repositorio. Por eso, cada domingo solo se consulta Geoapify para las direcciones que todavía no tengan una resolución guardada.
+El historial de direcciones y coordenadas se conserva comprimido en el repositorio. En cada actualización mensual solo se consulta Geoapify para las direcciones que todavía no tengan una resolución guardada.
 
 Si los secretos no existen, el proceso conserva el historial geográfico y utiliza el catálogo público de BanBif.
 
-## Ejecución manual
+## Actualización mensual
 
-En la pestaña **Actions**, abrir **Actualizar promociones** y pulsar **Run workflow**.
-
-La ejecución semanal normal hace lo siguiente:
-
-1. Ejecuta nuevamente los seis scrapers.
-2. Cada scraper genera un Excel temporal.
-3. Solo si el Excel es válido reemplaza el archivo anterior del banco.
-4. Limpia y unifica las promociones.
-5. Reutiliza las coordenadas guardadas y consulta Geoapify únicamente para direcciones nuevas.
-6. Valida que la nueva base no esté vacía ni pierda una cantidad importante de puntos.
-7. Publica los cambios en GitHub Pages.
-
-Si un scraper falla, se conserva el último Excel válido de ese banco. Si funcionan menos de cuatro de los seis bancos, la ejecución se detiene y la web vigente no se modifica.
+1. Ejecutar los seis extractores y cargar sus Excel en ChatGPT Work.
+2. Revisar `promociones_maestro.xlsx` y los casos marcados.
+3. Comprimir el JSON aprobado y sustituir `data/input/promociones_maestro.json.gz`.
+4. El flujo **Publicar maestro de promociones** arranca automáticamente.
+5. El proceso envía a Geoapify únicamente `consulta_geoapify`, ya preparada por Work; no interpreta ni reconstruye direcciones.
+6. La publicación solo reemplaza el catálogo vigente cuando supera los controles de promociones, bancos y puntos mapeados.
 
 ## Regeocodificación completa
 
 Para volver a consultar todas las coordenadas:
 
-1. Abrir **Actions → Actualizar promociones → Run workflow**.
+1. Abrir **Actions → Publicar maestro de promociones → Run workflow**.
 2. Marcar **Regeocodificar todas las direcciones desde cero**.
 3. Pulsar el botón verde **Run workflow**.
 
@@ -57,13 +50,10 @@ Este modo crea una caché nueva y aislada. La caché publicada solo se reemplaza
 
 | Ruta | Función |
 | --- | --- |
-| **.github/workflows/actualizar-promociones.yml** | Programa y coordina toda la actualización. |
-| **scripts/scrapers/** | Contiene un archivo Python por fuente bancaria. |
-| **data/fuentes/** | Conserva el último Excel válido de cada banco. |
-| **scripts/actualizar_promociones.py** | Limpia, categoriza y unifica los Excel. |
-| **data/geocoding/** | Conserva la caché y el historial de coordenadas. |
-| **scripts/generar_base_maestra.py** | Relaciona promociones y establecimientos. |
-| **scripts/preparar_catalogo_web.py** | Genera los archivos optimizados para la aplicación. |
+| **.github/workflows/actualizar-promociones-work.yml** | Valida, geocodifica y publica el maestro aprobado. |
+| **data/input/promociones_maestro.json.gz** | Entrada mensual preparada por ChatGPT Work (JSON comprimido). |
+| **scripts/procesar_maestro_work.py** | Envía las consultas ya preparadas a Geoapify y genera el catálogo web. |
+| **data/geocoding/work_queries.json** | Conserva las respuestas de Geoapify por consulta exacta. |
 | **site/** | Contiene la aplicación web/PWA publicada. |
 
 ## Sustituir un scraper que dejó de funcionar
