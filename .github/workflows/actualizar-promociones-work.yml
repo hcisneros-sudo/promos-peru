@@ -1,0 +1,82 @@
+name: Publicar maestro de promociones
+
+on:
+  push:
+    paths:
+      - "data/input/promociones_maestro.json.gz"
+  workflow_dispatch:
+    inputs:
+      regeocodificar_todo:
+        description: "Volver a consultar en Geoapify todas las direcciones preparadas por Work"
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publicar-maestro-promociones
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    env:
+      GEOAPIFY_API_KEY: ${{ secrets.GEOAPIFY_API_KEY }}
+      REGEOCODIFICAR_TODO: ${{ github.event_name == 'workflow_dispatch' && inputs.regeocodificar_todo && 'true' || 'false' }}
+      PYTHONUNBUFFERED: "1"
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - name: Preparar caché aislada
+        shell: bash
+        run: |
+          mkdir -p work/site-data work/cache reports data/geocoding
+          if [[ "$REGEOCODIFICAR_TODO" != "true" && -f data/geocoding/work_queries.json ]]; then
+            cp data/geocoding/work_queries.json work/cache/work_queries.json
+          else
+            echo '{}' > work/cache/work_queries.json
+          fi
+      - name: Procesar el maestro preparado por Work
+        shell: bash
+        run: |
+          EXTRA_ARGS=()
+          if [[ "$REGEOCODIFICAR_TODO" == "true" ]]; then
+            if [[ -z "$GEOAPIFY_API_KEY" ]]; then
+              echo "Falta el secreto GEOAPIFY_API_KEY."
+              exit 1
+            fi
+            EXTRA_ARGS+=(--regeocodificar-todo)
+          fi
+          python scripts/procesar_maestro_work.py \
+            --maestro data/input/promociones_maestro.json.gz \
+            --salida work/site-data \
+            --catalogo-actual site/data \
+            --cache work/cache/work_queries.json \
+            "${EXTRA_ARGS[@]}"
+      - name: Impedir una publicación incompleta o regresiva
+        run: |
+          python scripts/validar_publicacion.py \
+            --candidate work/site-data \
+            --current site/data \
+            --master data/input/promociones_maestro.json.gz
+      - name: Incorporar catálogo validado
+        run: |
+          rsync -a --delete work/site-data/ site/data/
+          cp work/cache/work_queries.json data/geocoding/work_queries.json
+          cp site/data/catalog-manifest.json reports/catalog-manifest.json
+      - name: Guardar actualización
+        run: |
+          git config user.name "promos-peru-bot"
+          git config user.email "promos-peru-bot@users.noreply.github.com"
+          git add site/data data/geocoding/work_queries.json reports/catalog-manifest.json
+          if git diff --cached --quiet; then
+            echo "No hay cambios para publicar."
+          else
+            git commit -m "Publicar maestro de promociones $(date -u +%Y-%m-%d)"
+            git push
+          fi
