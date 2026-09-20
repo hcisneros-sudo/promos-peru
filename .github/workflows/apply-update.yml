@@ -1,6 +1,7 @@
 name: Aplicar actualización preparada por Work
 
 on:
+  workflow_dispatch:
   push:
     branches: [main]
     paths:
@@ -18,8 +19,6 @@ jobs:
         run: |
           unzip -o promos-peru-work-update.zip
           rm -f promos-peru-work-update.zip
-          rm -f .github/workflows/actualizar-promociones.yml
-          rm -f .github/workflows/apply-update.yml
       - name: Publicar actualización
         run: |
           git config user.name "promos-peru-bot"
