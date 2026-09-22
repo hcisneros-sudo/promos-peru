@@ -1,16 +1,16 @@
 {
   "version": 3,
-  "generatedAt": "2026-09-22T02:11:33.107265+00:00",
+  "generatedAt": "2026-09-22T04:12:07.574783+00:00",
   "source": "ChatGPT Work master",
   "promotions": 2084,
-  "mappedLocations": 3399,
-  "migratedCoordinates": 6444,
-  "geoapifyRequested": 112,
-  "geoapifyReused": 28,
+  "mappedLocations": 3880,
+  "migratedCoordinates": 6769,
+  "geoapifyRequested": 415,
+  "geoapifyReused": 216,
   "geoapifyErrors": 0,
-  "uncompressedBytes": 8920464,
-  "compressedBytes": 862452,
-  "sha256": "aa197575cb30d4b913c3390866124262560f31b5845af8becb8bf2d4aee891c8",
+  "uncompressedBytes": 8898611,
+  "compressedBytes": 866871,
+  "sha256": "4843fd0ff917a6f1cfdee7d65bdae838b01c5d2ab8b50f9fa94c1da0921b9842",
   "parts": [
     "part-001.bin",
     "part-002.bin",
@@ -20,6 +20,7 @@
     "part-006.bin",
     "part-007.bin",
     "part-008.bin",
-    "part-009.bin"
+    "part-009.bin",
+    "part-010.bin"
   ]
 }
