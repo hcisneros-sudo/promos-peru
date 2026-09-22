@@ -105240,5 +105240,4741 @@
       "lon2": -77.0248752,
       "lat2": -12.0919186
     }
+  },
+  "d8067729ee7b5aa441d7c7a0fa2ca77c6a02fc25cbe740b94d9a0eea9c912bb6": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "Bitcoin ATM - Shitcoins.club",
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "Comas",
+    "postcode": "15314",
+    "district": "Alameda Algarrobos",
+    "street": "Avenida Los Ángeles",
+    "housenumber": "602",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -77.0663266,
+    "lat": -11.9369405,
+    "state_code": "LIM",
+    "county_code": "LI",
+    "result_type": "building",
+    "formatted": "Bitcoin ATM - Shitcoins.club, Avenida Los Ángeles 602, Comas 15314, Peru",
+    "address_line1": "Bitcoin ATM - Shitcoins.club",
+    "address_line2": "Avenida Los Ángeles 602, Comas 15314, Peru",
+    "category": "service.financial.atm",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57W43W7M+6F",
+    "rank": {
+      "importance": 7.730144197752372e-05,
+      "popularity": 7.106985764794012,
+      "confidence": 0.6942857142857143,
+      "confidence_city_level": 1,
+      "confidence_street_level": 0.7714285714285714,
+      "match_type": "match_by_building"
+    },
+    "place_id": "51b676ecb13e4453c05985984baab6df27c0f00103f901da8d4aca02000000c0020392031c426974636f696e2041544d202d2053686974636f696e732e636c7562e203266f70656e7374726565746d61703a616464726573733a6e6f64652f3131393833383138323032",
+    "bbox": {
+      "lon1": -77.0663766,
+      "lat1": -11.9369905,
+      "lon2": -77.0662766,
+      "lat2": -11.9368905
+    }
+  },
+  "cbdb15543db06cc4c78792cbb84c16d9f0f54f8ea436962db72f01e17254946b": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "Avenida Pachacútec",
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "Villa María del Triunfo",
+    "postcode": "15809",
+    "district": "Villa Jardín",
+    "suburb": "Villa María del Triunfo",
+    "street": "Avenida Pachacútec",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -76.9538021,
+    "lat": -12.1639447,
+    "state_code": "LIM",
+    "result_type": "street",
+    "formatted": "Avenida Pachacútec, Villa María del Triunfo, Villa María del Triunfo 15809, Peru",
+    "address_line1": "Avenida Pachacútec",
+    "address_line2": "Villa María del Triunfo, Villa María del Triunfo 15809, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V5R2PW+CF",
+    "rank": {
+      "importance": 0.05341063477531087,
+      "popularity": 7.213064062253861,
+      "confidence": 0.5,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "match_type": "match_by_street"
+    },
+    "place_id": "51cb96f6170b3d53c0597fb4498ff05328c0f00102f901a407111600000000c002049203134176656e69646120506163686163c3ba746563",
+    "bbox": {
+      "lon1": -76.9567599,
+      "lat1": -12.1677799,
+      "lon2": -76.9509254,
+      "lat2": -12.1601698
+    }
+  },
+  "088dc2d3cba8d9e01844ac879fb54c2d4d7d65454e8a4699f91ea46408049180": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "Los Lirios Avenue",
+    "other_names": {
+      "name": "Avenida Los Lirios",
+      "name:es": "Avenida Los Lirios"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "San Juan de Miraflores",
+    "postcode": "15029",
+    "district": "Entel",
+    "suburb": "San Juan de Miraflores",
+    "street": "Los Lirios Avenue",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -76.9823925,
+    "lat": -12.1522593,
+    "state_code": "LIM",
+    "result_type": "street",
+    "county_code": "LI",
+    "formatted": "Los Lirios Avenue, San Juan de Miraflores, San Juan de Miraflores 15029, Peru",
+    "address_line1": "Los Lirios Avenue",
+    "address_line2": "San Juan de Miraflores, San Juan de Miraflores 15029, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V5R2X9+32",
+    "rank": {
+      "importance": 0.05341063477531087,
+      "popularity": 7.738300342573749,
+      "confidence": 0.5,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "match_type": "match_by_street"
+    },
+    "place_id": "517cd5ca84df3e53c059120654eef44d28c0f00102f9010cf8ca2000000000c002049203114c6f73204c6972696f73204176656e7565e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3332353733393533",
+    "bbox": {
+      "lon1": -76.9834549,
+      "lat1": -12.1543901,
+      "lon2": -76.980654,
+      "lat2": -12.150751
+    }
+  },
+  "227a52e9859857b2f30c71a67e3b4fb44d98354b1d156083309067dbed35436f": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "Alfredo Mendiola Avenue",
+    "other_names": {
+      "name": "Avenida Alfredo Mendiola",
+      "name:es": "Avenida Alfredo Mendiola"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "Independencia",
+    "postcode": "15311",
+    "district": "Urbanización El Naranjal",
+    "suburb": "Independencia",
+    "street": "Alfredo Mendiola Avenue",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -77.0644076,
+    "lat": -11.9850201,
+    "state_code": "LIM",
+    "result_type": "street",
+    "formatted": "Alfredo Mendiola Avenue, Independencia, Independencia 15311, Peru",
+    "address_line1": "Alfredo Mendiola Avenue",
+    "address_line2": "Independencia, Independencia 15311, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57W42W7P+X6",
+    "plus_code_short": "2W7P+X6, 15311 Independencia, Peru",
+    "rank": {
+      "importance": 0.05341063477531087,
+      "popularity": 7.738300342573749,
+      "confidence": 0.5,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "match_type": "match_by_street"
+    },
+    "place_id": "5149e70d411f4453c05928cef68d54f827c0f00102f901d78dcf0a00000000c00204920317416c667265646f204d656e64696f6c61204176656e7565",
+    "bbox": {
+      "lon1": -77.0645357,
+      "lat1": -11.9870129,
+      "lon2": -77.0634,
+      "lat2": -11.9839152
+    }
+  },
+  "84e52972885c8056207f97087cc5ee286cce0f05b4857d97ccd26b87a4d8ba9c": {
+    "country_code": "pe",
+    "name": "Avenida San Borja Norte",
+    "street": "Avenida San Borja Norte",
+    "country": "Peru",
+    "county": "Lima",
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "state": "Lima",
+    "state_code": "LR",
+    "county_code": "LMA",
+    "city": "Lima",
+    "iso3166_2": "PE-LIM",
+    "lon": -77.009388,
+    "lat": -12.096014,
+    "result_type": "street",
+    "postcode": "15021",
+    "formatted": "Avenida San Borja Norte, Lima 15021, Peru",
+    "address_line1": "Avenida San Borja Norte",
+    "address_line2": "Lima 15021, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V4WX3R+H6",
+    "plus_code_short": "WX3R+H6 Lima, Peru",
+    "rank": {
+      "popularity": 7.392504920573792,
+      "confidence": 0.03198602188644166,
+      "confidence_city_level": 0.4158182845237416,
+      "confidence_street_level": 0.06397204377288332,
+      "match_type": "match_by_street"
+    },
+    "place_id": "51643e20d0994053c05992ea3bbf283128c0c002049203174176656e6964612053616e20426f726a61204e6f727465e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3332353735343937",
+    "bbox": {
+      "lon1": -77.009567,
+      "lat1": -12.096695,
+      "lon2": -77.009,
+      "lat2": -12.095426
+    }
+  },
+  "4db7ac3d6fea312be64af3059e33aa174f134ab5f506a2344c84748323bd5c23": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "Avenida Angamos Este",
+    "other_names": {
+      "alt_name": "Angamos Este"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "San Borja",
+    "postcode": "51132",
+    "district": "El Bosque Etapa Dos",
+    "suburb": "San Borja",
+    "street": "Avenida Angamos Este",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -76.9900877,
+    "lat": -12.1109645,
+    "state_code": "LIM",
+    "result_type": "street",
+    "formatted": "Avenida Angamos Este, San Borja, San Borja 51132, Peru",
+    "address_line1": "Avenida Angamos Este",
+    "address_line2": "San Borja, San Borja 51132, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V5V2Q5+JX",
+    "rank": {
+      "importance": 0.05341063477531087,
+      "popularity": 7.738300342573749,
+      "confidence": 0.5,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "match_type": "match_by_street"
+    },
+    "place_id": "5100ebcc985d3f53c059b308c556d03828c0f00102f9016331ba1300000000c002049203144176656e69646120416e67616d6f732045737465",
+    "bbox": {
+      "lon1": -76.9904473,
+      "lat1": -12.1109894,
+      "lon2": -76.9897281,
+      "lat2": -12.1109397
+    }
+  },
+  "1a401d8188cf209f6ae167058f046d161e84dd991f388b4af5b265f4447b6307": {
+    "country_code": "pe",
+    "name": "Lima",
+    "country": "Peru",
+    "county": "Lima",
+    "datasource": {
+      "sourcename": "whosonfirst",
+      "attribution": "Who's On First",
+      "license": "CC0",
+      "url": "https://www.whosonfirst.org/docs/licenses/"
+    },
+    "state": "Lima",
+    "state_code": "LR",
+    "county_code": "LMA",
+    "city": "Lima",
+    "iso3166_2": "PE-LIM",
+    "lon": -77.021217,
+    "lat": -12.049141,
+    "result_type": "city",
+    "formatted": "Lima, LR, Peru",
+    "address_line1": "Lima",
+    "address_line2": "LR, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V4XX2H+8G",
+    "plus_code_short": "2H+8G Lima, Peru",
+    "rank": {
+      "popularity": 7.738300342573749,
+      "confidence": 0.25,
+      "confidence_city_level": 1,
+      "match_type": "match_by_city_or_disrict"
+    },
+    "place_id": "51a1478c9e5b4153c05915c95702291928c0c002089203044c696d61e2031e77686f736f6e66697273743a6c6f63616c6974793a343231313836383035",
+    "bbox": {
+      "lon1": -77.198996,
+      "lat1": -12.519679,
+      "lon2": -76.621551,
+      "lat2": -11.57301
+    }
+  },
+  "e584f9a73e90e378f83b82e94dde4ef29eb4cfaac7413be175026c99075d923f": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "San Borja",
+    "other_names": {
+      "official_name": "San Francisco de Borja"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "San Borja",
+    "postcode": "15037",
+    "suburb": "San Borja",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -76.9988421,
+    "lat": -12.107075,
+    "state_code": "LIM",
+    "result_type": "suburb",
+    "distance": 0,
+    "formatted": "San Borja, LIM, Peru",
+    "address_line1": "San Borja",
+    "address_line2": "San Borja, LIM, Peru",
+    "category": "populated_place",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V5V2V2+5F",
+    "rank": {
+      "importance": 0.14674396810864418,
+      "popularity": 7.545079219443613,
+      "confidence": 0.25,
+      "confidence_city_level": 1,
+      "match_type": "match_by_city_or_disrict"
+    },
+    "place_id": "518d576a07ed3f53c0593b70ce88d23628c0f00103f90185e350e100000000c0020592030953616e20426f726a61",
+    "bbox": {
+      "lon1": -77.0188421,
+      "lat1": -12.127075,
+      "lon2": -76.9788421,
+      "lat2": -12.087075
+    }
+  },
+  "67d87f546a3d56041f49f358cd36ffb339aa35262ad275e05fdc1c3ce57f612d": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "Boulevard Mantaro",
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "San Miguel",
+    "postcode": "15032",
+    "suburb": "San Miguel",
+    "street": "Boulevard Mantaro",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -77.0824914,
+    "lat": -12.0760849,
+    "state_code": "LIM",
+    "result_type": "street",
+    "formatted": "Boulevard Mantaro, San Miguel, San Miguel 15032, Peru",
+    "address_line1": "Boulevard Mantaro",
+    "address_line2": "San Miguel, San Miguel 15032, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V4WWF9+H2",
+    "rank": {
+      "importance": 0.05341063477531087,
+      "popularity": 7.738300342573749,
+      "confidence": 0.5,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "match_type": "match_by_street"
+    },
+    "place_id": "51e14c028a474553c05959709a99f42628c0f00102f9019179010c00000000c00204920311426f756c6576617264204d616e7461726f",
+    "bbox": {
+      "lon1": -77.0842801,
+      "lat1": -12.0763528,
+      "lon2": -77.0807327,
+      "lat2": -12.0759763
+    }
+  },
+  "9cd819ade6ea7e5c53ac45de115ed45a3c744235ed51f187de61272b9b23cbb0": {
+    "country_code": "pe",
+    "name": "Ventanilla",
+    "country": "Peru",
+    "county": "Huarochiri",
+    "datasource": {
+      "sourcename": "whosonfirst",
+      "attribution": "Who's On First",
+      "license": "CC0",
+      "url": "https://www.whosonfirst.org/docs/licenses/"
+    },
+    "state": "Lima",
+    "state_code": "LR",
+    "county_code": "HH",
+    "city": "Ventanilla",
+    "iso3166_2": "PE-LIM",
+    "lon": -76.2275,
+    "lat": -11.88056,
+    "result_type": "city",
+    "formatted": "Ventanilla, LR, Peru",
+    "address_line1": "Ventanilla",
+    "address_line2": "LR, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57W54Q9C+QX",
+    "rank": {
+      "popularity": 1.4778094071111005,
+      "confidence": 0.125,
+      "confidence_city_level": 0.5,
+      "match_type": "match_by_city_or_disrict"
+    },
+    "place_id": "51c3f5285c8f0e53c059de54a4c2d8c227c0c0020892030a56656e74616e696c6c61e2031e77686f736f6e66697273743a6c6f63616c6974793a343231313737353933",
+    "bbox": {
+      "lon1": -76.2475,
+      "lat1": -11.90056,
+      "lon2": -76.2075,
+      "lat2": -11.86056
+    }
+  },
+  "31b70e50a5ad17059bc0078868dc96b4c5e8b7229ff9dd5675670142b97302bc": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "Barranca",
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Barranca",
+    "state": "Lima",
+    "city": "Barranca",
+    "iso3166_2": "PE-LIM",
+    "lon": -77.7609383,
+    "lat": -10.7541212,
+    "state_code": "LIM",
+    "result_type": "city",
+    "distance": 0,
+    "formatted": "Barranca, LIM, Peru",
+    "address_line1": "Barranca",
+    "address_line2": "LIM, Peru",
+    "category": "populated_place",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57X466WQ+9J",
+    "plus_code_short": "WQ+9J Barranca, Lima, Peru",
+    "rank": {
+      "importance": 0.32316133360556143,
+      "popularity": 1.7067709564146507,
+      "confidence": 0.25,
+      "confidence_city_level": 1,
+      "match_type": "match_by_city_or_disrict"
+    },
+    "place_id": "5187318e36b37053c059c870862c1c8225c0f00103f90101b3201100000000c0020892030842617272616e6361",
+    "bbox": {
+      "lon1": -77.8009383,
+      "lat1": -10.7941212,
+      "lon2": -77.7209383,
+      "lat2": -10.7141212
+    }
+  },
+  "b0ef744f0d52999e715740e8c9248d0b429635f8fda5ef9c3a0a989c8e5e77c5": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "Calle Colon",
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Huaura",
+    "state": "Lima",
+    "city": "Huacho",
+    "postcode": "15136",
+    "street": "Calle Colon",
+    "iso3166_2": "PE-LIM",
+    "lon": -77.6121111,
+    "lat": -11.1084399,
+    "state_code": "LIM",
+    "result_type": "street",
+    "formatted": "Calle Colon, Huacho 15136, Peru",
+    "address_line1": "Calle Colon",
+    "address_line2": "Huacho 15136, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57W4V9RQ+J5",
+    "plus_code_short": "RQ+J5 Huacho, Lima, Peru",
+    "rank": {
+      "importance": 0.053370834668497714,
+      "popularity": 2.7868610237823193,
+      "confidence": 0.5,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "match_type": "match_by_street"
+    },
+    "place_id": "51310109d42c6753c059bc29406f853726c0f00102f90173b3011800000000c0020492030b43616c6c6520436f6c6f6e",
+    "bbox": {
+      "lon1": -77.6135607,
+      "lat1": -11.1086738,
+      "lon2": -77.6106626,
+      "lat2": -11.1081995
+    }
+  },
+  "2ad817f4601cccaa5e24296865b8514616bd6622086d621c16c909159c43788a": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "Avenida Ejército",
+    "ref": "AR-743",
+    "other_names": {
+      "ref": "AR-743"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Arequipa",
+    "state": "Arequipa",
+    "city": "Cayma",
+    "postcode": "04100",
+    "district": "Urbanización Avidge",
+    "suburb": "Cayma",
+    "quarter": "Leon XIII",
+    "street": "Avenida Ejército",
+    "iso3166_2": "PE-ARE",
+    "lon": -71.5496745,
+    "lat": -16.3889625,
+    "state_code": "ARE",
+    "result_type": "street",
+    "formatted": "Avenida Ejército, Cayma, Cayma 04100, Peru",
+    "address_line1": "Avenida Ejército",
+    "address_line2": "Cayma, Cayma 04100, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57MCJF62+C4",
+    "rank": {
+      "importance": 0.053370834668497714,
+      "popularity": 5.282939378479604,
+      "confidence": 0.5,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "match_type": "match_by_street"
+    },
+    "place_id": "517d3cf4dd2de351c059d3dee00b936330c0f00102f9018a310c1e00000000c002049203114176656e69646120456ac3a9726369746f",
+    "bbox": {
+      "lon1": -71.5506562,
+      "lat1": -16.3893077,
+      "lon2": -71.5486873,
+      "lat2": -16.3886007
+    }
+  },
+  "5b1fbc96df7d40ad75ca1d25b0caa64b3f4cc013910e3ab60691c6f4c69bd9b3": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "Avenida Aviación",
+    "ref": "AR-743",
+    "other_names": {
+      "ref": "AR-743"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Arequipa",
+    "state": "Arequipa",
+    "city": "Cerro Colorado",
+    "postcode": "04017",
+    "district": "Urbanización Monte Bello",
+    "suburb": "Zamácola",
+    "quarter": "Víctor Andrés Belaúnde",
+    "street": "Avenida Aviación",
+    "iso3166_2": "PE-ARE",
+    "lon": -71.5640156,
+    "lat": -16.3582524,
+    "state_code": "ARE",
+    "result_type": "street",
+    "formatted": "Avenida Aviación, Zamácola, Cerro Colorado 04017, Peru",
+    "address_line1": "Avenida Aviación",
+    "address_line2": "Zamácola, Cerro Colorado 04017, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57MCJCRP+M9",
+    "rank": {
+      "importance": 0.05337814984359499,
+      "popularity": 3.490654247415808,
+      "confidence": 0.5,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "match_type": "match_by_street"
+    },
+    "place_id": "51c41be3d418e451c059a9b6e56db65b30c0f00102f901982cff2100000000c002049203114176656e69646120417669616369c3b36e",
+    "bbox": {
+      "lon1": -71.5668137,
+      "lat1": -16.3617871,
+      "lon2": -71.5619047,
+      "lat2": -16.3551253
+    }
+  },
+  "4ed05acf4ddf115340421ff1e59a110429e606b58861dd1d8fe419963f734287": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "Avenida Victor Raúl Haya de la Torre",
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Santa",
+    "state": "Ancash",
+    "city": "Chimbote",
+    "postcode": "02710",
+    "street": "Avenida Victor Raúl Haya de la Torre",
+    "iso3166_2": "PE-ANC",
+    "lon": -78.5521233,
+    "lat": -9.1057381,
+    "state_code": "ANC",
+    "result_type": "street",
+    "formatted": "Avenida Victor Raúl Haya de la Torre, Chimbote 02710, Peru",
+    "address_line1": "Avenida Victor Raúl Haya de la Torre",
+    "address_line2": "Chimbote 02710, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "6723VCVX+P5",
+    "plus_code_short": "VCVX+P5 Chimbote, Ancash, Peru",
+    "rank": {
+      "importance": 0.05338660181582357,
+      "popularity": 2.0469667674438505,
+      "confidence": 0.5,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "match_type": "match_by_street"
+    },
+    "place_id": "510437f7fc55a353c059e2e1e24d233622c0f00102f90144bc045200000000c002049203254176656e69646120566963746f72205261c3ba6c2048617961206465206c6120546f727265",
+    "bbox": {
+      "lon1": -78.5559548,
+      "lat1": -9.1092184,
+      "lon2": -78.5482987,
+      "lat2": -9.102266
+    }
+  },
+  "55eae6246e24de5fc6800ca3cc02ca44d00a3b8f82cf8454caa116e8c6ef4602": {
+    "country_code": "pe",
+    "name": "Avenida de la Cultura",
+    "street": "Avenida de la Cultura",
+    "country": "Peru",
+    "county": "Cusco",
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "state": "Cusco",
+    "state_code": "CS",
+    "county_code": "CS",
+    "lon": -71.972051,
+    "lat": -13.519991,
+    "result_type": "street",
+    "city": "Cuzco",
+    "postcode": "08001",
+    "formatted": "Avenida de la Cultura, Cuzco 08001, Peru",
+    "address_line1": "Avenida de la Cultura",
+    "address_line2": "Cuzco 08001, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57RCF2JH+25",
+    "iso3166_2": "PE-CS",
+    "rank": {
+      "popularity": 5.282498653139695,
+      "confidence": 0.405,
+      "confidence_city_level": 1,
+      "confidence_street_level": 0.81,
+      "match_type": "match_by_street"
+    },
+    "place_id": "51d2c2651536fe51c059bd6da6423c0a2bc0c002049203154176656e696461206465206c612043756c74757261e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3334303632343231",
+    "bbox": {
+      "lon1": -71.97206,
+      "lat1": -13.52113,
+      "lon2": -71.967373,
+      "lat2": -13.519989
+    }
+  },
+  "6ce8fb059a3c4de499d548ddbbd900027f33e51e3a1f739c0891e89377992379": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "Avenida Ferrocarril",
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Huancayo",
+    "state": "Junín",
+    "city": "Huancayo",
+    "postcode": "12001",
+    "suburb": "San Carlos",
+    "street": "Avenida Ferrocarril",
+    "iso3166_2": "PE-JUN",
+    "lon": -75.2051054,
+    "lat": -12.0691799,
+    "state_code": "JUN",
+    "result_type": "street",
+    "formatted": "Avenida Ferrocarril, San Carlos, Huancayo 12001, Peru",
+    "address_line1": "Avenida Ferrocarril",
+    "address_line2": "San Carlos, Huancayo 12001, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V6WQJV+8X",
+    "plus_code_short": "JV+8X Huancayo, Junín, Peru",
+    "rank": {
+      "importance": 0.053388892195010265,
+      "popularity": 4.641672358629951,
+      "confidence": 0.5,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "match_type": "match_by_street"
+    },
+    "place_id": "51e94e667220cd52c059c314408c6b2328c0f00102f9015d728d1e00000000c002049203134176656e69646120466572726f63617272696c",
+    "bbox": {
+      "lon1": -75.2062063,
+      "lat1": -12.0719106,
+      "lon2": -75.2045967,
+      "lat2": -12.0666819
+    }
+  },
+  "dfc5e4f66495a55c2c3a1f08234e8aecba62a42510e5c9e38b80f92ff0444d9a": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "Chiclayo",
+    "old_name": "Santa María de los Valles de Chiclayo",
+    "other_names": {
+      "name:ko": "치클라요",
+      "name:ru": "Чиклайо",
+      "name:uk": "Чіклайо",
+      "old_name": "Santa María de los Valles de Chiclayo"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Chiclayo",
+    "state": "Lambayeque",
+    "city": "Chiclayo",
+    "postcode": "14001",
+    "iso3166_2": "PE-LAM",
+    "lon": -79.8387175,
+    "lat": -6.7716146,
+    "state_code": "LAM",
+    "result_type": "city",
+    "distance": 0,
+    "formatted": "Chiclayo, LAM, Peru",
+    "address_line1": "Chiclayo",
+    "address_line2": "Chiclayo, LAM, Peru",
+    "category": "populated_place",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "675265H6+9G",
+    "plus_code_short": "H6+9G Chiclayo, Lambayeque, Peru",
+    "rank": {
+      "importance": 0.5218948381528703,
+      "popularity": 5.636167696301896,
+      "confidence": 0.25,
+      "confidence_city_level": 1,
+      "match_type": "match_by_city_or_disrict"
+    },
+    "place_id": "514e452a8cadf553c059e976402322161bc0f00103f901ed56141300000000c00208920308436869636c61796f",
+    "bbox": {
+      "lon1": -79.9987175,
+      "lat1": -6.9316146,
+      "lon2": -79.6787175,
+      "lat2": -6.6116146
+    }
+  },
+  "27e78cc8dbe97edd353a28ac80358b8b0af93f0b43049a84caeb325d549c6abe": {
+    "country_code": "pe",
+    "name": "Huánuco",
+    "country": "Peru",
+    "county": "Huánuco",
+    "datasource": {
+      "sourcename": "whosonfirst",
+      "attribution": "Who's On First",
+      "license": "CC0",
+      "url": "https://www.whosonfirst.org/docs/licenses/"
+    },
+    "state": "Huanuco",
+    "state_code": "HC",
+    "city": "Huánuco",
+    "lon": -76.24223,
+    "lat": -9.93062,
+    "result_type": "city",
+    "formatted": "Huánuco, HC, Peru",
+    "address_line1": "Huánuco",
+    "address_line2": "HC, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "67253Q95+Q4",
+    "plus_code_short": "+Q4 Huánuco, Peru",
+    "iso3166_2": "PE-HC",
+    "rank": {
+      "popularity": 2.5135533189340684,
+      "confidence": 0.25,
+      "confidence_city_level": 1,
+      "match_type": "match_by_city_or_disrict"
+    },
+    "place_id": "510c0742b2800f53c059cd0182397adc23c0c002089203084875c3a16e75636fe2031e77686f736f6e66697273743a6c6f63616c6974793a383930343435303535",
+    "bbox": {
+      "lon1": -76.26223,
+      "lat1": -9.95062,
+      "lon2": -76.22223,
+      "lat2": -9.91062
+    }
+  },
+  "e7ea995b771e4ac67d026a0e2482e38561194af860d734c0b41664101bff4c9d": {
+    "country_code": "pe",
+    "name": "Puno",
+    "country": "Peru",
+    "county": "Puno",
+    "datasource": {
+      "sourcename": "whosonfirst",
+      "attribution": "Who's On First",
+      "license": "CC0",
+      "url": "https://www.whosonfirst.org/docs/licenses/"
+    },
+    "state": "Puno",
+    "state_code": "PU",
+    "city": "Puno",
+    "iso3166_2": "PE-PUN",
+    "lon": -70.027778,
+    "lat": -15.840646,
+    "result_type": "city",
+    "formatted": "Puno, PU, Peru",
+    "address_line1": "Puno",
+    "address_line2": "PU, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57PF5X5C+PV",
+    "plus_code_short": "5C+PV Puno, Peru",
+    "rank": {
+      "popularity": 2.6214331565360185,
+      "confidence": 0.25,
+      "confidence_city_level": 1,
+      "match_type": "match_by_city_or_disrict"
+    },
+    "place_id": "511763601dc78151c059c4060b2769ae2fc0c0020892030450756e6fe2031e77686f736f6e66697273743a6c6f63616c6974793a343231313730313031",
+    "bbox": {
+      "lon1": -70.047778,
+      "lat1": -15.860646,
+      "lon2": -70.007778,
+      "lat2": -15.820646
+    }
+  },
+  "02ca698cce04aa16f3a02c14db87a56c6326c8309c7794be1edadd677800e06a": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "Jirón Cáceres",
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Piura",
+    "state": "Piura",
+    "city": "Castilla",
+    "postcode": "20004",
+    "district": "Villa California",
+    "suburb": "Castilla",
+    "quarter": "El Indio",
+    "street": "Jirón Cáceres",
+    "iso3166_2": "PE-PIU",
+    "lon": -80.6270844,
+    "lat": -5.2189582,
+    "state_code": "PIU",
+    "result_type": "street",
+    "formatted": "Jirón Cáceres, Castilla, Castilla 20004, Peru",
+    "address_line1": "Jirón Cáceres",
+    "address_line2": "Castilla, Castilla 20004, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "666XQ9JF+C5",
+    "rank": {
+      "importance": 0.053373566033417225,
+      "popularity": 2.1880479660579635,
+      "confidence": 0.45,
+      "confidence_city_level": 1,
+      "confidence_street_level": 0.9,
+      "match_type": "match_by_street"
+    },
+    "place_id": "513c759b26222854c0599dc3109436e014c0f00102f901ac6d092200000000c0020492030f4a6972c3b36e2043c3a16365726573",
+    "bbox": {
+      "lon1": -80.6277253,
+      "lat1": -5.2193771,
+      "lon2": -80.6264665,
+      "lat2": -5.2185755
+    }
+  },
+  "6d6102c1b5ffe65d9312caec3edcc2b7d78f3cbe71589bd9128e7a4e45a0210e": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "Avenida América Oeste",
+    "other_names": {
+      "alt_name": "Pablo Casals"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Trujillo",
+    "state": "La Libertad",
+    "city": "Trujillo",
+    "postcode": "13013",
+    "district": "Residencial Los Jardines de San Isidro",
+    "street": "Avenida América Oeste",
+    "iso3166_2": "PE-LAL",
+    "lon": -79.0413836,
+    "lat": -8.096141,
+    "state_code": "LAL",
+    "result_type": "street",
+    "formatted": "Avenida América Oeste, Trujillo 13013, Peru",
+    "address_line1": "Avenida América Oeste",
+    "address_line2": "Trujillo 13013, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "6732WX35+GC",
+    "plus_code_short": "WX35+GC Trujillo, La Libertad, Peru",
+    "rank": {
+      "importance": 0.05339469672693977,
+      "popularity": 5.548830950533926,
+      "confidence": 0.5,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "match_type": "match_by_street"
+    },
+    "place_id": "51cf256607a6c253c059069ca564393120c0f00102f901c60ae30500000000c002049203164176656e69646120416dc3a972696361204f65737465",
+    "bbox": {
+      "lon1": -79.0431917,
+      "lat1": -8.0976733,
+      "lon2": -79.0393639,
+      "lat2": -8.0948905
+    }
+  },
+  "e15ddc825fffb4a22019afc2fa23bda859998d8286c9383a0cbcd65060f8189a": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "San Martín",
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Tumbes",
+    "state": "Tumbes",
+    "county": "District of Tumbes",
+    "city": "Tumbes",
+    "district": "San José",
+    "street": "San Martín",
+    "iso3166_2": "PE-TUM",
+    "lon": -80.4583441,
+    "lat": -3.5693162,
+    "state_code": "TUM",
+    "result_type": "street",
+    "postcode": "24002",
+    "formatted": "San Martín, Tumbes 24002, Peru",
+    "address_line1": "San Martín",
+    "address_line2": "Tumbes 24002, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "668XCGJR+7M",
+    "plus_code_short": "JR+7M Tumbes, District of Tumbes, Peru",
+    "rank": {
+      "importance": 0.0533851201647974,
+      "popularity": 2.683634765557523,
+      "confidence": 0.5,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "match_type": "match_by_street"
+    },
+    "place_id": "5122f47d82551d54c059f9a9e0a6f58d0cc0f00102f9015c49821b00000000c0020492030b53616e204d617274c3ad6e",
+    "bbox": {
+      "lon1": -80.4593108,
+      "lat1": -3.5703894,
+      "lon2": -80.4574379,
+      "lat2": -3.5681929
+    }
+  },
+  "77e9d2d197b1ed403264c02d45b934751098811090d21b27213f80336a15f14e": {
+    "country_code": "pe",
+    "name": "Avenida Las Américas",
+    "street": "Avenida Las Américas",
+    "country": "Peru",
+    "county": "Pisco",
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "state": "Ica",
+    "state_code": "IC",
+    "county_code": "PO",
+    "iso3166_2": "PE-ICA",
+    "lon": -76.197887,
+    "lat": -13.717652,
+    "result_type": "street",
+    "city": "Pisco",
+    "postcode": "11601",
+    "formatted": "Avenida Las Américas, Pisco 11601, Peru",
+    "address_line1": "Avenida Las Américas",
+    "address_line2": "Pisco 11601, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57R57RJ2+WR",
+    "plus_code_short": "J2+WR Pisco, Peru",
+    "rank": {
+      "popularity": 1.7936037678687093,
+      "confidence": 0.3375,
+      "confidence_city_level": 1,
+      "confidence_street_level": 0.675,
+      "match_type": "match_by_street"
+    },
+    "place_id": "516d533c2eaa0c53c05967d13b15706f2bc0c002049203154176656e696461204c617320416dc3a97269636173e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3334303634343239",
+    "bbox": {
+      "lon1": -76.20785,
+      "lat1": -13.71781,
+      "lon2": -76.194384,
+      "lat2": -13.710904
+    }
+  },
+  "3ed56d37ca7ecd05d540a8988a94364a7c4fb5926ca33019a055e429ab0c1f4c": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "ref": "PE-18C",
+    "other_names": {
+      "ref": "PE-18C"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Coronel Portillo",
+    "state": "Ucayali",
+    "city": "Pucallpa",
+    "postcode": "25000",
+    "suburb": "Fray Martín",
+    "street": "Centenario",
+    "iso3166_2": "PE-UCA",
+    "lon": -74.5664317,
+    "lat": -8.3884817,
+    "state_code": "UCA",
+    "housenumber": "2086",
+    "result_type": "building",
+    "formatted": "Centenario 2086, Fray Martín, Pucallpa 25000, Peru",
+    "address_line1": "Centenario 2086",
+    "address_line2": "Fray Martín, Pucallpa 25000, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "6737JC6M+JC",
+    "plus_code_short": "6M+JC Pucallpa, Ucayali, Peru",
+    "rank": {
+      "importance": 0.05338743495841913,
+      "popularity": 1.2827747956754847,
+      "confidence": 0.7290000000000001,
+      "confidence_city_level": 0.81,
+      "confidence_street_level": 0.81,
+      "confidence_building_level": 0.81,
+      "match_type": "match_by_building"
+    },
+    "place_id": "51bbbabe6a40a452c0596030c912e7c620c0c00203",
+    "bbox": {
+      "lon1": -74.5710852,
+      "lat1": -8.3898426,
+      "lon2": -74.5483803,
+      "lat2": -8.3846614
+    }
+  },
+  "56b1795467e2033d2b909eadea0c5da00ea644b8c7ce706415b284b133610726": {
+    "country_code": "pe",
+    "street": "Avenida Inca Garcilaso de la Vega",
+    "country": "Peru",
+    "county": "Lima",
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "state": "Lima",
+    "state_code": "LR",
+    "county_code": "LMA",
+    "city": "Lima",
+    "iso3166_2": "PE-LIM",
+    "lon": -76.959506,
+    "lat": -12.154025,
+    "housenumber": "1337",
+    "result_type": "building",
+    "postcode": "15058",
+    "formatted": "Avenida Inca Garcilaso de la Vega 1337, Lima 15058, Peru",
+    "address_line1": "Avenida Inca Garcilaso de la Vega 1337",
+    "address_line2": "Lima 15058, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V5R2WR+95",
+    "plus_code_short": "R2WR+95 Lima, Peru",
+    "rank": {
+      "popularity": 7.122352247136327,
+      "confidence": 0.45,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "confidence_building_level": 0,
+      "match_type": "match_by_building"
+    },
+    "place_id": "513694da8b683d53c0596688635ddc4e28c0c00203e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3237303131333435",
+    "bbox": {
+      "lon1": -76.961174,
+      "lat1": -12.154734,
+      "lon2": -76.957871,
+      "lat2": -12.153248
+    }
+  },
+  "a89016a71b5ecb834ff66b253af149baca8e5912b3b145264f89f9a00b21505f": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "Antar Retail Perú",
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "Independencia",
+    "postcode": "15311",
+    "district": "Urbanización Mesa Redonda",
+    "suburb": "Independencia",
+    "street": "Avenida Alfredo Mendiola",
+    "housenumber": "1400",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -77.0590782,
+    "lat": -12.0068727,
+    "state_code": "LIM",
+    "county_code": "LI",
+    "result_type": "building",
+    "formatted": "Antar Retail Perú, Avenida Alfredo Mendiola 1400, Independencia, Independencia 15311, Peru",
+    "address_line1": "Antar Retail Perú",
+    "address_line2": "Avenida Alfredo Mendiola 1400, Independencia, Independencia 15311, Peru",
+    "category": "commercial.clothing.clothes",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V4XWVR+79",
+    "plus_code_short": "XWVR+79, 15311 Independencia, Peru",
+    "rank": {
+      "importance": 7.730144197752372e-05,
+      "popularity": 7.738300342573749,
+      "confidence": 1,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "confidence_building_level": 1,
+      "match_type": "full_match"
+    },
+    "place_id": "51053aeeefc74353c0596f788bd1840328c0f00103f9010391db9602000000c00203920312416e7461722052657461696c20506572c3bae203266f70656e7374726565746d61703a616464726573733a6e6f64652f3131313230393036343939",
+    "bbox": {
+      "lon1": -77.0591282,
+      "lat1": -12.0069227,
+      "lon2": -77.0590282,
+      "lat2": -12.0068227
+    }
+  },
+  "7628c108b03ac9f6814e8668805c839ce7588bee4ddceb0db73530d7a4dad31f": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "Avenida Óscar Raimundo Benavides",
+    "old_name": "Avenida Colonial",
+    "other_names": {
+      "alt_name": "Oscar R Benavides",
+      "loc_name": "Avenida Colonial",
+      "old_name": "Avenida Colonial"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "state": "Callao",
+    "county": "Callao",
+    "state_district": "Lima Metropolitan Area",
+    "city": "Bellavista",
+    "postcode": "07011",
+    "district": "Confecciones Militares",
+    "suburb": "Bellavista",
+    "street": "Avenida Óscar Raimundo Benavides",
+    "iso3166_2": "PE-CAL",
+    "lon": -77.1101057,
+    "lat": -12.0561538,
+    "result_type": "street",
+    "formatted": "Avenida Óscar Raimundo Benavides, Bellavista, Bellavista 07011, Peru",
+    "address_line1": "Avenida Óscar Raimundo Benavides",
+    "address_line2": "Bellavista, Bellavista 07011, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V4WVVQ+GX",
+    "rank": {
+      "importance": 0.05341063477531087,
+      "popularity": 7.190757878208566,
+      "confidence": 0.5,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "match_type": "match_by_street"
+    },
+    "place_id": "519b26c7f80b4753c0599e17dd30c01c28c0f00102f901ab34400200000000c002049203214176656e69646120c39373636172205261696d756e646f2042656e617669646573",
+    "bbox": {
+      "lon1": -77.1127351,
+      "lat1": -12.056729,
+      "lon2": -77.1076468,
+      "lat2": -12.0557422
+    }
+  },
+  "f4a7256d91568cee9ea9c50fee89b1dc80ed4fdafa4906c3d414214bfa02fb62": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "Eduardo Dibós Coliseum",
+    "other_names": {
+      "name": "Coliseo Eduardo Dibós",
+      "name:es": "Coliseo Eduardo Dibós"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "San Borja",
+    "postcode": "15038",
+    "district": "Urb. Primavera de Monterrico",
+    "suburb": "San Borja",
+    "street": "Avenida Angamos Este",
+    "housenumber": "2681",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -77.0011657,
+    "lat": -12.1109128,
+    "state_code": "LIM",
+    "result_type": "amenity",
+    "formatted": "Eduardo Dibós Coliseum, Avenida Angamos Este 2681, San Borja, San Borja 15038, Peru",
+    "address_line1": "Eduardo Dibós Coliseum",
+    "address_line2": "Avenida Angamos Este 2681, San Borja, San Borja 15038, Peru",
+    "category": "sport.sports_centre",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V4VXQX+JG",
+    "rank": {
+      "importance": 0.3809657170471295,
+      "popularity": 7.738300342573749,
+      "confidence": 0.7290000000000001,
+      "confidence_city_level": 1,
+      "confidence_street_level": 0.81,
+      "confidence_building_level": 0.81,
+      "match_type": "full_match"
+    },
+    "place_id": "5120d84c19134053c059636a0190c93828c0f00102f9010bc9f31700000000c002019203174564756172646f20446962c3b37320436f6c697365756d",
+    "bbox": {
+      "lon1": -77.0014748,
+      "lat1": -12.1111913,
+      "lon2": -77.0008597,
+      "lat2": -12.1105924
+    }
+  },
+  "3860628adb70d62436355a6ee27618f1fd6f5fbdb1246105077e131349ef28ca": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "Lima",
+    "other_names": {
+      "name:ab": "Лима",
+      "name:am": "ሊማ",
+      "name:ar": "ليما",
+      "name:be": "Ліма",
+      "name:bg": "Лима",
+      "name:bh": "लीमा",
+      "name:bn": "লিমা",
+      "name:bo": "ལི་མ།",
+      "name:ce": "Лима",
+      "name:cv": "Лима",
+      "name:el": "Λίμα",
+      "name:eo": "Limo",
+      "name:fa": "لیما",
+      "name:ga": "Líoma",
+      "name:gn": "Líma",
+      "name:he": "לימה",
+      "name:hi": "लीमा",
+      "name:hy": "Լիմա",
+      "name:is": "Líma",
+      "name:ja": "リマ",
+      "name:ka": "ლიმა",
+      "name:kk": "Лима",
+      "name:kn": "ಲಿಮಾ",
+      "name:ko": "리마",
+      "name:ku": "Lîma",
+      "name:ky": "Лима",
+      "name:mi": "Rima",
+      "name:mk": "Лима",
+      "name:ml": "ലിമ",
+      "name:mn": "Лима",
+      "name:mr": "लिमा",
+      "name:my": "လီမာမြို့",
+      "name:or": "ଲିମା",
+      "name:os": "Лимæ",
+      "name:pa": "ਲੀਮਾ",
+      "name:qu": "Limaq",
+      "name:ru": "Лима",
+      "name:sd": "ليما",
+      "name:si": "ලීමා",
+      "name:sr": "Лима",
+      "name:ta": "லிமா",
+      "name:tg": "Лима",
+      "name:th": "ลิมา",
+      "name:tl": "Lungsod ng Lima",
+      "name:tt": "Лима",
+      "name:ug": "لىما",
+      "name:uk": "Ліма",
+      "name:ur": "لیما",
+      "name:yi": "לימא",
+      "name:zh": "利馬/利马",
+      "name:arz": "ليما",
+      "name:krc": "Лима",
+      "name:mhr": "Лима",
+      "name:pnb": "لیما",
+      "name:wal": "Limma",
+      "name:xmf": "ლიმა",
+      "name:zh-Hans": "利马",
+      "name:zh-Hant": "利馬",
+      "name:be-tarask": "Ліма"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "Lima",
+    "postcode": "15001",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -77.0305912,
+    "lat": -12.0459808,
+    "state_code": "LIM",
+    "result_type": "city",
+    "distance": 0,
+    "formatted": "Lima, LIM, Peru",
+    "address_line1": "Lima",
+    "address_line2": "Lima, LIM, Peru",
+    "category": "populated_place",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V4XX39+JQ",
+    "plus_code_short": "39+JQ Lima, Lima Metropolitan Area, Peru",
+    "rank": {
+      "importance": 0.7235006350491207,
+      "popularity": 7.738300342573749,
+      "confidence": 0.25,
+      "confidence_city_level": 1,
+      "match_type": "match_by_city_or_disrict"
+    },
+    "place_id": "51e8e2ca34f54153c059e37ca0cb8a1728c0f00103f9017175aaff00000000c002089203044c696d61",
+    "bbox": {
+      "lon1": -77.1905912,
+      "lat1": -12.2059808,
+      "lon2": -76.8705912,
+      "lat2": -11.8859808
+    }
+  },
+  "0157a673426fe7654e3218cb67b90fb3ffdb75d55339b4725aafcb75024d052c": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "Real Plaza Puruchuco",
+    "other_names": {
+      "brand": "Real Plaza"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "Ate",
+    "postcode": "15498",
+    "street": "Nicolas de Ayllon Avenue",
+    "housenumber": "4770",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -76.932244,
+    "lat": -12.040852,
+    "state_code": "LIM",
+    "result_type": "amenity",
+    "formatted": "Real Plaza Puruchuco, Nicolas de Ayllon Avenue 4770, Ate 15498, Peru",
+    "address_line1": "Real Plaza Puruchuco",
+    "address_line2": "Nicolas de Ayllon Avenue 4770, Ate 15498, Peru",
+    "category": "commercial.shopping_mall",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V5X359+M4",
+    "rank": {
+      "importance": 0.2753675655596695,
+      "popularity": 7.237438776761112,
+      "confidence": 0.7,
+      "confidence_city_level": 1,
+      "confidence_street_level": 0.7,
+      "confidence_building_level": 0.7,
+      "match_type": "full_match"
+    },
+    "place_id": "511af9bce2a93b53c059cff3a78dea1428c0f00102f901e975011a00000000c002019203145265616c20506c617a612050757275636875636f",
+    "bbox": {
+      "lon1": -76.9335972,
+      "lat1": -12.0437182,
+      "lon2": -76.9306246,
+      "lat2": -12.038285
+    }
+  },
+  "25a6d5cd0d4fdc0a5deea6da646e6004618688eff5a092f12f7dec62d70eacae": {
+    "country_code": "pe",
+    "name": "Avenida Paseo de la República",
+    "street": "Avenida Paseo de la República",
+    "country": "Peru",
+    "county": "Lima",
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "state": "Lima",
+    "state_code": "LR",
+    "county_code": "LMA",
+    "city": "Chorrillos",
+    "iso3166_2": "PE-LIM",
+    "lon": -76.985811,
+    "lat": -12.155717,
+    "result_type": "street",
+    "postcode": "15828",
+    "formatted": "Avenida Paseo de la República, Chorrillos 15828, Peru",
+    "address_line1": "Avenida Paseo de la República",
+    "address_line2": "Chorrillos 15828, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V5R2V7+PM",
+    "rank": {
+      "popularity": 7.738300342573749,
+      "confidence": 0.45,
+      "confidence_city_level": 1,
+      "confidence_street_level": 0.9,
+      "match_type": "match_by_street"
+    },
+    "place_id": "515f420587173f53c059cadc7c23ba4f28c0c0020492031e4176656e69646120506173656f206465206c6120526570c3ba626c696361e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3237303136393531",
+    "bbox": {
+      "lon1": -76.98679,
+      "lat1": -12.156452,
+      "lon2": -76.984841,
+      "lat2": -12.154992
+    }
+  },
+  "98261d4ee58423633d568f7d672b8afa8119309a60398881dd0d8633480967a4": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "San Isidro",
+    "postcode": "15046",
+    "district": "Centro financiero de San Isidro",
+    "suburb": "San Isidro",
+    "street": "Calle Las Begonias",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -77.0244276,
+    "lat": -12.0926289,
+    "state_code": "LIM",
+    "housenumber": "421",
+    "result_type": "building",
+    "formatted": "Calle Las Begonias 421, San Isidro, San Isidro 15046, Peru",
+    "address_line1": "Calle Las Begonias 421",
+    "address_line2": "San Isidro, San Isidro 15046, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V4WX4G+W6",
+    "plus_code_short": "WX4G+W6 San Isidro, Lima Metropolitan Area, Peru",
+    "rank": {
+      "importance": 0.05341063477531087,
+      "popularity": 7.738300342573749,
+      "confidence": 0.675,
+      "confidence_city_level": 1,
+      "confidence_street_level": 0.9,
+      "confidence_building_level": 0.675,
+      "match_type": "full_match"
+    },
+    "place_id": "51aac7c738904153c0593354200e6d2f28c0c00203",
+    "bbox": {
+      "lon1": -77.0246677,
+      "lat1": -12.0932564,
+      "lon2": -77.0242966,
+      "lat2": -12.0911445
+    }
+  },
+  "469ab5a8d32dc9d504dc647ed6c99c69a750514e6aff67bcc0636b5df31ff90b": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "Jockey Plaza Shopping Center",
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "Santiago de Surco",
+    "postcode": "15041",
+    "district": "Jacaranda Etapa Dos",
+    "street": "Javier Prado Este",
+    "housenumber": "4200",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -76.9763812,
+    "lat": -12.086058,
+    "state_code": "LIM",
+    "result_type": "amenity",
+    "formatted": "Jockey Plaza Shopping Center, Javier Prado Este 4200, Santiago de Surco 15041, Peru",
+    "address_line1": "Jockey Plaza Shopping Center",
+    "address_line2": "Javier Prado Este 4200, Santiago de Surco 15041, Peru",
+    "category": "commercial.shopping_mall",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V5W27F+HC",
+    "plus_code_short": "W27F+HC Santiago de Surco, Lima Metropolitan Area, Peru",
+    "rank": {
+      "importance": 0.21822785325192331,
+      "popularity": 7.738300342573749,
+      "confidence": 0,
+      "confidence_city_level": 0,
+      "confidence_street_level": 0,
+      "confidence_building_level": 0,
+      "match_type": "full_match"
+    },
+    "place_id": "51799b92077d3e53c0594b1e4fcb0f2c28c0f00101f9018645820000000000c0020192031c4a6f636b657920506c617a612053686f7070696e672043656e746572",
+    "bbox": {
+      "lon1": -76.9783662,
+      "lat1": -12.0876541,
+      "lon2": -76.9741455,
+      "lat2": -12.0844195
+    }
+  },
+  "e40098ddae2262aec5eedd7aaff4c0a94d05f04fe19b8f91b00597408a7b0dc0": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "Los Lirios Avenue",
+    "other_names": {
+      "name": "Avenida Los Lirios",
+      "name:es": "Avenida Los Lirios"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "San Juan de Miraflores",
+    "postcode": "15029",
+    "district": "Entel",
+    "suburb": "San Juan de Miraflores",
+    "street": "Los Lirios Avenue",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -76.9823925,
+    "lat": -12.1522593,
+    "state_code": "LIM",
+    "result_type": "street",
+    "formatted": "Los Lirios Avenue, San Juan de Miraflores, San Juan de Miraflores 15029, Peru",
+    "address_line1": "Los Lirios Avenue",
+    "address_line2": "San Juan de Miraflores, San Juan de Miraflores 15029, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V5R2X9+32",
+    "rank": {
+      "importance": 0.05341063477531087,
+      "popularity": 7.738300342573749,
+      "confidence": 0.5,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "match_type": "match_by_street"
+    },
+    "place_id": "517cd5ca84df3e53c059120654eef44d28c0f00102f9010cf8ca2000000000c002049203114c6f73204c6972696f73204176656e7565",
+    "bbox": {
+      "lon1": -76.9834549,
+      "lat1": -12.1543901,
+      "lon2": -76.980654,
+      "lat2": -12.150751
+    }
+  },
+  "20a53fb5989db0911da3560e6c23d74ec8d8f9ba19a558d73b6bbf59e806f214": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "Mall Aventura San Juan de Lurigancho",
+    "other_names": {
+      "brand": "Mall Aventura"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "San Juan de Lurigancho",
+    "postcode": "15427",
+    "district": "El Pueblito",
+    "suburb": "San Juan de Lurigancho",
+    "quarter": "Zárate",
+    "street": "Lurigancho Avenue",
+    "housenumber": "997",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -76.9992319,
+    "lat": -12.0162569,
+    "state_code": "LIM",
+    "result_type": "amenity",
+    "formatted": "Mall Aventura San Juan de Lurigancho, Lurigancho Avenue 997, San Juan de Lurigancho, San Juan de Lurigancho 15427, Peru",
+    "address_line1": "Mall Aventura San Juan de Lurigancho",
+    "address_line2": "Lurigancho Avenue 997, San Juan de Lurigancho, San Juan de Lurigancho 15427, Peru",
+    "category": "commercial.shopping_mall",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V5X2M2+F8",
+    "rank": {
+      "importance": 7.730144197752372e-05,
+      "popularity": 7.493527149650041,
+      "confidence": 1,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "confidence_building_level": 1,
+      "match_type": "inner_part"
+    },
+    "place_id": "51ade75a6af33f53c0592fab0bd3520828c0f00102f901baeff30a00000000c002019203244d616c6c204176656e747572612053616e204a75616e206465204c75726967616e63686f",
+    "bbox": {
+      "lon1": -77.0009177,
+      "lat1": -12.0171242,
+      "lon2": -76.998332,
+      "lat2": -12.015437
+    }
+  },
+  "4401e568b5925c8c9ee14651499e57cf1aeaa7861570fe5fa40fdead5b14c43b": {
+    "country_code": "pe",
+    "street": "Avenida de La Marina",
+    "country": "Peru",
+    "county": "Lima",
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "state": "Lima",
+    "state_code": "LR",
+    "county_code": "LMA",
+    "city": "Lima",
+    "iso3166_2": "PE-LIM",
+    "lon": -77.08747,
+    "lat": -12.077711,
+    "housenumber": "2355",
+    "result_type": "building",
+    "postcode": "15084",
+    "formatted": "Avenida de La Marina 2355, Lima 15084, Peru",
+    "address_line1": "Avenida de La Marina 2355",
+    "address_line2": "Lima 15084, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V4WWC7+W2",
+    "plus_code_short": "WWC7+W2 Lima, Peru",
+    "rank": {
+      "popularity": 7.738300342573749,
+      "confidence": 0.45,
+      "confidence_city_level": 1,
+      "confidence_street_level": 0.9,
+      "confidence_building_level": 0,
+      "match_type": "full_match"
+    },
+    "place_id": "516458c51b994553c059341477bcc92728c0c00203e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3332353735353736",
+    "bbox": {
+      "lon1": -77.093306,
+      "lat1": -12.077823,
+      "lon2": -77.081536,
+      "lat2": -12.077065
+    }
+  },
+  "4fec73dd4154f26d08f4e2c2e413b9126469b5faceda8a9d82b7e14a46018bb5": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "Cibertec - Arequipa",
+    "ref": "1703867",
+    "other_names": {
+      "ref": "1703867"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Arequipa",
+    "state": "Arequipa",
+    "city": "Paucarpata",
+    "postcode": "04006",
+    "district": "Clisa",
+    "suburb": "Paucarpata",
+    "quarter": "Guardia Civil",
+    "street": "Avenida Porongoche",
+    "housenumber": "500",
+    "iso3166_2": "PE-ARE",
+    "lon": -71.5155743,
+    "lat": -16.4161744,
+    "state_code": "ARE",
+    "result_type": "amenity",
+    "formatted": "Cibertec - Arequipa, Avenida Porongoche 500, Paucarpata, Paucarpata 04006, Peru",
+    "address_line1": "Cibertec - Arequipa",
+    "address_line2": "Avenida Porongoche 500, Paucarpata, Paucarpata 04006, Peru",
+    "category": "education.school",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57MCHFMM+GQ",
+    "rank": {
+      "importance": 4.483787289230209e-05,
+      "popularity": 4.838126026222391,
+      "confidence": 0.9,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "confidence_building_level": 1,
+      "match_type": "full_match"
+    },
+    "place_id": "511e4a592bffe051c059b36ecd678a6a30c0f00103f9018c88864c01000000c002019203134369626572746563202d204172657175697061",
+    "bbox": {
+      "lon1": -71.5156243,
+      "lat1": -16.4162244,
+      "lon2": -71.5155243,
+      "lat2": -16.4161244
+    }
+  },
+  "ab6fbe99bc51dfd3c1ac94f62df1b678a3e7921bcad27b24411f713c4e09f00d": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "Piso",
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Marañón",
+    "state": "Huánuco",
+    "city": "Huacrachuco",
+    "hamlet": "Piso",
+    "iso3166_2": "PE-HUC",
+    "lon": -77.25969,
+    "lat": -8.5015078,
+    "state_code": "HUC",
+    "result_type": "city",
+    "distance": 0,
+    "formatted": "Piso, Huacrachuco, HUC, Peru",
+    "address_line1": "Piso",
+    "address_line2": "Huacrachuco, HUC, Peru",
+    "category": "populated_place",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "6734FPXR+94",
+    "plus_code_short": "FPXR+94 Huacrachuco, Huánuco, Peru",
+    "rank": {
+      "importance": 0.13337230411230638,
+      "popularity": 0.6890486822463008,
+      "confidence": 0.5,
+      "confidence_city_level": 1,
+      "match_type": "match_by_city_or_disrict"
+    },
+    "place_id": "514a46cec29e5053c059b9605fa1c50021c0f00103f901c046af8201000000c002089203045069736f",
+    "bbox": {
+      "lon1": -77.27969,
+      "lat1": -8.5215078,
+      "lon2": -77.23969,
+      "lat2": -8.4815078
+    }
+  },
+  "5dba8bdf9f1c8f963f7f0a703dedd9aa8ddea2885cb063d79a68a905fdd63fbc": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "Real Plaza Puruchuco",
+    "other_names": {
+      "brand": "Real Plaza"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "Ate",
+    "postcode": "15498",
+    "street": "Nicolas de Ayllon Avenue",
+    "housenumber": "4770",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -76.932244,
+    "lat": -12.040852,
+    "state_code": "LIM",
+    "result_type": "amenity",
+    "formatted": "Real Plaza Puruchuco, Nicolas de Ayllon Avenue 4770, Ate 15498, Peru",
+    "address_line1": "Real Plaza Puruchuco",
+    "address_line2": "Nicolas de Ayllon Avenue 4770, Ate 15498, Peru",
+    "category": "commercial.shopping_mall",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V5X359+M4",
+    "rank": {
+      "importance": 0.2753675655596695,
+      "confidence": 0,
+      "confidence_street_level": 0.14285714285714285,
+      "match_type": "full_match"
+    },
+    "place_id": "511af9bce2a93b53c059cff3a78dea1428c0f00102f901e975011a00000000c002019203145265616c20506c617a612050757275636875636f",
+    "bbox": {
+      "lon1": -76.9335972,
+      "lat1": -12.0437182,
+      "lon2": -76.9306246,
+      "lat2": -12.038285
+    }
+  },
+  "35480684e34e88aeac4e8e3cd4500a677fa4579c8cb1cc3143de7136a3f01d90": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "Piso",
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Marañón",
+    "state": "Huánuco",
+    "city": "Huacrachuco",
+    "hamlet": "Piso",
+    "iso3166_2": "PE-HUC",
+    "lon": -77.25969,
+    "lat": -8.5015078,
+    "state_code": "HUC",
+    "result_type": "city",
+    "distance": 0,
+    "formatted": "Piso, Huacrachuco, HUC, Peru",
+    "address_line1": "Piso",
+    "address_line2": "Huacrachuco, HUC, Peru",
+    "category": "populated_place",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "6734FPXR+94",
+    "plus_code_short": "FPXR+94 Huacrachuco, Huánuco, Peru",
+    "rank": {
+      "importance": 0.13337230411230638,
+      "popularity": 0.6890486822463008,
+      "confidence": 0.25,
+      "confidence_city_level": 1,
+      "match_type": "match_by_city_or_disrict"
+    },
+    "place_id": "514a46cec29e5053c059b9605fa1c50021c0f00103f901c046af8201000000c002089203045069736f",
+    "bbox": {
+      "lon1": -77.27969,
+      "lat1": -8.5215078,
+      "lon2": -77.23969,
+      "lat2": -8.4815078
+    }
+  },
+  "b272c0b05d6458df5d78cf44348c91ce133e6c1105294566231b6496808d1202": {
+    "country_code": "pe",
+    "name": "Real Plaza Cusco",
+    "housenumber": "2964",
+    "street": "Avenida Collasuyo",
+    "country": "Peru",
+    "county": "Cusco",
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "state": "Cusco",
+    "state_code": "CS",
+    "county_code": "CS",
+    "lon": -71.950656,
+    "lat": -13.521808,
+    "result_type": "amenity",
+    "postcode": "08003",
+    "city": "Cuzco",
+    "suburb": "Huaracpunco",
+    "formatted": "Real Plaza Cusco, Avenida Collasuyo 2964, Huaracpunco, Cuzco 08003, Peru",
+    "address_line1": "Real Plaza Cusco",
+    "address_line2": "Avenida Collasuyo 2964, Huaracpunco, Cuzco 08003, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57RCF2HX+7P",
+    "iso3166_2": "PE-CS",
+    "rank": {
+      "popularity": 4.422957096644296,
+      "confidence": 0.75,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "confidence_building_level": 1,
+      "match_type": "full_match"
+    },
+    "place_id": "51c16f438cd7fc51c05914950d6b2a0b2bc0f00102f901ebc94b1000000000c002019203105265616c20506c617a6120437573636fe203216f70656e7374726565746d61703a76656e75653a7761792f323733343032333437",
+    "bbox": {
+      "lon1": -71.9512189,
+      "lat1": -13.5258386,
+      "lon2": -71.9493904,
+      "lat2": -13.5217992
+    }
+  },
+  "7e08bf505dd9ebaf73e50a1a91fd6c67a7a2660931abb192454a21e1a4c2b8bd": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "Maynas",
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Maynas",
+    "state": "Loreto",
+    "city": "Punchana",
+    "hamlet": "Maynas",
+    "iso3166_2": "PE-LOR",
+    "lon": -73.4445841,
+    "lat": -3.4829449,
+    "state_code": "LOR",
+    "result_type": "city",
+    "distance": 0,
+    "formatted": "Maynas, Punchana, LOR, Peru",
+    "address_line1": "Maynas",
+    "address_line2": "Punchana, LOR, Peru",
+    "category": "populated_place",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "6788GH84+R5",
+    "rank": {
+      "importance": 0.1333733340962844,
+      "popularity": 0.5596101776311426,
+      "confidence": 0.25,
+      "confidence_city_level": 1,
+      "match_type": "match_by_city_or_disrict"
+    },
+    "place_id": "519574de10745c52c059f1283a3712dd0bc0f00103f9010a600f4001000000c002089203064d61796e6173",
+    "bbox": {
+      "lon1": -73.4645841,
+      "lat1": -3.5029449,
+      "lon2": -73.4245841,
+      "lat2": -3.4629449
+    }
+  },
+  "22adb2609102144d132ba32d8744e95cb2fde0782cb145b2003b19e6e99cbcdf": {
+    "country_code": "pe",
+    "name": "Junín",
+    "country": "Peru",
+    "county": "Junín",
+    "datasource": {
+      "sourcename": "whosonfirst",
+      "attribution": "Who's On First",
+      "license": "CC0",
+      "url": "https://www.whosonfirst.org/docs/licenses/"
+    },
+    "state": "Junin",
+    "state_code": "JU",
+    "county_code": "JN",
+    "city": "Junín",
+    "lon": -75.99304,
+    "lat": -11.15895,
+    "result_type": "city",
+    "formatted": "Junín, JU, Peru",
+    "address_line1": "Junín",
+    "address_line2": "JU, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57W6R2R4+CQ",
+    "plus_code_short": "+CQ Junín, Peru",
+    "iso3166_2": "PE-JU",
+    "rank": {
+      "popularity": 1.065384158519593,
+      "confidence": 0.25,
+      "confidence_city_level": 1,
+      "match_type": "match_by_city_or_disrict"
+    },
+    "place_id": "51abe7a4f78dff52c059fe65f7e4615126c0c002089203064a756ec3ad6ee2031e77686f736f6e66697273743a6c6f63616c6974793a343231313734353439",
+    "bbox": {
+      "lon1": -76.01304,
+      "lat1": -11.17895,
+      "lon2": -75.97304,
+      "lat2": -11.13895
+    }
+  },
+  "b0ce3757ea12648287c3041f5322e9b407921852229ec3170c017e12d2a1d57e": {
+    "country_code": "pe",
+    "name": "La Libertad",
+    "country": "Peru",
+    "county": "Moyobamba",
+    "datasource": {
+      "sourcename": "whosonfirst",
+      "attribution": "Who's On First",
+      "license": "CC0",
+      "url": "https://www.whosonfirst.org/docs/licenses/"
+    },
+    "state": "San Martin",
+    "state_code": "SM",
+    "city": "La Libertad",
+    "lon": -77.10361,
+    "lat": -5.88389,
+    "result_type": "city",
+    "formatted": "La Libertad, SM, Peru",
+    "address_line1": "La Libertad",
+    "address_line2": "SM, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "67644V8W+CH",
+    "iso3166_2": "PE-SM",
+    "rank": {
+      "popularity": 0.60698893377245,
+      "confidence": 0.0625,
+      "confidence_city_level": 0.25,
+      "match_type": "match_by_city_or_disrict"
+    },
+    "place_id": "517862d68ba14653c059b70bcd751a8917c0c0020892030b4c61204c69626572746164e2031f77686f736f6e66697273743a6c6f63616c6974793a31323630313439323839",
+    "bbox": {
+      "lon1": -77.12361,
+      "lat1": -5.90389,
+      "lon2": -77.08361,
+      "lat2": -5.86389
+    }
+  },
+  "6ffa5f092e73c76dc83816ccdf72bee1f6cbf61f28afab2895084c159c1966d8": {
+    "country_code": "pe",
+    "name": "La Libertad",
+    "country": "Peru",
+    "county": "Moyobamba",
+    "datasource": {
+      "sourcename": "whosonfirst",
+      "attribution": "Who's On First",
+      "license": "CC0",
+      "url": "https://www.whosonfirst.org/docs/licenses/"
+    },
+    "state": "San Martin",
+    "state_code": "SM",
+    "city": "La Libertad",
+    "lon": -77.10361,
+    "lat": -5.88389,
+    "result_type": "city",
+    "formatted": "La Libertad, SM, Peru",
+    "address_line1": "La Libertad",
+    "address_line2": "SM, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "67644V8W+CH",
+    "iso3166_2": "PE-SM",
+    "rank": {
+      "popularity": 0.60698893377245,
+      "confidence": 0.0625,
+      "confidence_city_level": 0.25,
+      "match_type": "match_by_city_or_disrict"
+    },
+    "place_id": "517862d68ba14653c059b70bcd751a8917c0c0020892030b4c61204c69626572746164e2031f77686f736f6e66697273743a6c6f63616c6974793a31323630313439323839",
+    "bbox": {
+      "lon1": -77.12361,
+      "lat1": -5.90389,
+      "lon2": -77.08361,
+      "lat2": -5.86389
+    }
+  },
+  "9df42073fbacc31ab9792862ea34b500b6a9812f397b4340f31fb697d999c60d": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Chiclayo",
+    "state": "Lambayeque",
+    "city": "Chongoyape",
+    "village": "Ramon Castilla",
+    "hamlet": "Juana Ríos",
+    "street": "Avenida Chiclayo",
+    "iso3166_2": "PE-LAM",
+    "lon": -79.3997973,
+    "lat": -6.6332281,
+    "state_code": "LAM",
+    "housenumber": "14011",
+    "result_type": "building",
+    "postcode": "14620",
+    "formatted": "Avenida Chiclayo 14011, Chongoyape 14620, Peru",
+    "address_line1": "Avenida Chiclayo 14011",
+    "address_line2": "Chongoyape 14620, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "67529J82+P3",
+    "plus_code_short": "82+P3 Chongoyape, Lambayeque, Peru",
+    "rank": {
+      "importance": 0.053370834668497714,
+      "popularity": 0.6988814923180191,
+      "confidence": 0.10384615384615385,
+      "confidence_city_level": 0.23076923076923078,
+      "confidence_street_level": 0.23076923076923078,
+      "confidence_building_level": 0,
+      "match_type": "match_by_building"
+    },
+    "place_id": "51dd216a4796d953c05904a271f26c881ac0c00203",
+    "bbox": {
+      "lon1": -79.4019896,
+      "lat1": -6.6349218,
+      "lon2": -79.3976062,
+      "lat2": -6.6315359
+    }
+  },
+  "66d9a53838e20cdc5de8bfcafdfb7d316de18051797a66bdb625297f8a9f1f1a": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "Santiago de Surco",
+    "postcode": "15039",
+    "district": "Ciudad Santiago de Surco",
+    "suburb": "Santiago de Surco",
+    "street": "Avenida Caminos del Inca",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -76.9836003,
+    "lat": -12.1345864,
+    "state_code": "LIM",
+    "housenumber": "2362",
+    "result_type": "building",
+    "formatted": "Avenida Caminos del Inca 2362, Santiago de Surco, Santiago de Surco 15039, Peru",
+    "address_line1": "Avenida Caminos del Inca 2362",
+    "address_line2": "Santiago de Surco, Santiago de Surco 15039, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V5V288+5H",
+    "plus_code_short": "V288+5H Santiago de Surco, Lima Metropolitan Area, Peru",
+    "rank": {
+      "importance": 0.05341063477531087,
+      "popularity": 7.712326030485449,
+      "confidence": 0.75,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "confidence_building_level": 0.75,
+      "match_type": "full_match"
+    },
+    "place_id": "517e35ac4ef33e53c05906f93482e84428c0c00203",
+    "bbox": {
+      "lon1": -76.9818621,
+      "lat1": -12.1296991,
+      "lon2": -76.9816176,
+      "lat2": -12.1290806
+    }
+  },
+  "6a7f7ecc96c7242b30467083ffa7d205a58b56fc294123693fb18b240cdcb457": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "Jesús María",
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "Jesús María",
+    "postcode": "15072",
+    "suburb": "Jesús María",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -77.043904,
+    "lat": -12.0751522,
+    "state_code": "LIM",
+    "result_type": "suburb",
+    "distance": 0,
+    "formatted": "Jesús María, LIM, Peru",
+    "address_line1": "Jesús María",
+    "address_line2": "Jesús María, LIM, Peru",
+    "category": "populated_place",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V4WXF4+WC",
+    "rank": {
+      "importance": 0.14674396810864418,
+      "popularity": 7.738300342573749,
+      "confidence": 0.25,
+      "confidence_city_level": 1,
+      "match_type": "match_by_city_or_disrict"
+    },
+    "place_id": "51780ab952cf4253c059e57162597a2628c0f00103f90184e350e100000000c0020592030d4a6573c3ba73204d6172c3ad61",
+    "bbox": {
+      "lon1": -77.063904,
+      "lat1": -12.0951522,
+      "lon2": -77.023904,
+      "lat2": -12.0551522
+    }
+  },
+  "f96603f0ced23f2589919a7bb55c1a27ebdde404570bb78cfc093ba68473c79b": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "Miraflores",
+    "postcode": "15074",
+    "suburb": "Miraflores",
+    "street": "Diagonal Avenue",
+    "housenumber": "344",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -77.0305731,
+    "lat": -12.1211378,
+    "state_code": "LIM",
+    "result_type": "building",
+    "formatted": "Diagonal Avenue 344, Miraflores, Miraflores 15074, Peru",
+    "address_line1": "Diagonal Avenue 344",
+    "address_line2": "Miraflores, Miraflores 15074, Peru",
+    "category": "catering.restaurant",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V4VXH9+GQ",
+    "rank": {
+      "importance": 7.730144197752372e-05,
+      "popularity": 7.738300342573749,
+      "confidence": 0.9,
+      "confidence_city_level": 1,
+      "confidence_street_level": 0.9,
+      "confidence_building_level": 0.9,
+      "match_type": "full_match"
+    },
+    "place_id": "51ca28e0e8f44153c059689e12c6053e28c0f00103f901614880f700000000c00203",
+    "bbox": {
+      "lon1": -77.0306231,
+      "lat1": -12.1211878,
+      "lon2": -77.0305231,
+      "lat2": -12.1210878
+    }
+  },
+  "337f67214d01453e55a232099243a60533c3fe2bb8573ec2fc50732fcf98e20d": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "Miraflores",
+    "postcode": "15048",
+    "district": "Aurora",
+    "street": "Calle Coronel Luis Arias Schreiber",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -77.0103824,
+    "lat": -12.1210793,
+    "state_code": "LIM",
+    "housenumber": "317",
+    "result_type": "building",
+    "formatted": "Calle Coronel Luis Arias Schreiber 317, Miraflores 15048, Peru",
+    "address_line1": "Calle Coronel Luis Arias Schreiber 317",
+    "address_line2": "Miraflores 15048, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V4VXHQ+HR",
+    "rank": {
+      "importance": 0.05341063477531087,
+      "popularity": 7.738300342573749,
+      "confidence": 0.5,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "confidence_building_level": 0,
+      "match_type": "full_match"
+    },
+    "place_id": "510e1df11aaa4053c059f571231bfe3d28c0c00203",
+    "bbox": {
+      "lon1": -77.0109184,
+      "lat1": -12.1210949,
+      "lon2": -77.0098798,
+      "lat2": -12.120936
+    }
+  },
+  "745b66421bb7d07c142a453051375ac8fa72ade0740d6308206630bfa3ea441c": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "Refilo Sanguecheria",
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "Barranco",
+    "postcode": "15063",
+    "suburb": "Barranco",
+    "street": "Almirante Miguel Grau Avenue",
+    "housenumber": "393",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -77.0214346,
+    "lat": -12.1479795,
+    "state_code": "LIM",
+    "result_type": "amenity",
+    "formatted": "Refilo Sanguecheria, Almirante Miguel Grau Avenue 393, Barranco, Barranco 15063, Peru",
+    "address_line1": "Refilo Sanguecheria",
+    "address_line2": "Almirante Miguel Grau Avenue 393, Barranco, Barranco 15063, Peru",
+    "category": "catering.restaurant",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V4VX2H+RC",
+    "rank": {
+      "importance": 7.730144197752372e-05,
+      "popularity": 7.738300342573749,
+      "confidence": 0.81,
+      "confidence_city_level": 1,
+      "confidence_street_level": 0.81,
+      "confidence_building_level": 0.81,
+      "match_type": "inner_part"
+    },
+    "place_id": "512f803a2f5f4153c059f5f411f8c34b28c0f00102f901589c051a00000000c00201920313526566696c6f2053616e677565636865726961",
+    "bbox": {
+      "lon1": -77.021478,
+      "lat1": -12.1480047,
+      "lon2": -77.0213912,
+      "lat2": -12.1479544
+    }
+  },
+  "8b6844547c22fea5eceea2cdbbb8944dbd8115e17c6f51a1145814d34c8bdb7b": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "San Isidro",
+    "postcode": "15494",
+    "district": "Centro financiero de San Isidro",
+    "suburb": "San Isidro",
+    "street": "Calle Las Begonias",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -77.0255703,
+    "lat": -12.0952192,
+    "state_code": "LIM",
+    "housenumber": "705",
+    "result_type": "building",
+    "formatted": "Calle Las Begonias 705, San Isidro, San Isidro 15494, Peru",
+    "address_line1": "Calle Las Begonias 705",
+    "address_line2": "San Isidro, San Isidro 15494, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V4WX3F+WQ",
+    "plus_code_short": "WX3F+WQ San Isidro, Lima Metropolitan Area, Peru",
+    "rank": {
+      "importance": 0.05341063477531087,
+      "popularity": 7.738300342573749,
+      "confidence": 0.75,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "confidence_building_level": 0.75,
+      "match_type": "full_match"
+    },
+    "place_id": "51ee8f9cf1a24153c0590fe72b92c03028c0c00203",
+    "bbox": {
+      "lon1": -77.0261172,
+      "lat1": -12.0964082,
+      "lon2": -77.0246677,
+      "lat2": -12.0932564
+    }
+  },
+  "2c70e0c5a189a9f13a9c44332dd69420196fd8104a906926507c111e9d473b2d": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "Pueblo Libre",
+    "postcode": "15081",
+    "suburb": "Pueblo Libre",
+    "street": "Avenida del Río",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -77.054695,
+    "lat": -12.0680235,
+    "state_code": "LIM",
+    "housenumber": "608",
+    "result_type": "building",
+    "formatted": "Avenida del Río 608, Pueblo Libre, Pueblo Libre 15081, Peru",
+    "address_line1": "Avenida del Río 608",
+    "address_line2": "Pueblo Libre, Pueblo Libre 15081, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V4WWJW+Q4",
+    "rank": {
+      "importance": 0.05341063477531087,
+      "popularity": 7.258271261918993,
+      "confidence": 0.75,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "confidence_building_level": 0.75,
+      "match_type": "full_match"
+    },
+    "place_id": "514d10751f804353c0590bb8e7f9d32228c0c00203",
+    "bbox": {
+      "lon1": -77.0561793,
+      "lat1": -12.0757466,
+      "lon2": -77.0557486,
+      "lat2": -12.073785
+    }
+  },
+  "f604a5579f8488c281d17a4aba2ee2541214b06ebd48fd6ef2b64adcf867dc06": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "other_names": {
+      "alt_name": "Avenida Mariscal de la Mar"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "Pueblo Libre",
+    "postcode": "15084",
+    "suburb": "Pueblo Libre",
+    "street": "Avenida Manuel Cipriano Dulanto",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -77.0721709,
+    "lat": -12.0768763,
+    "state_code": "LIM",
+    "housenumber": "1589",
+    "result_type": "building",
+    "formatted": "Avenida Manuel Cipriano Dulanto 1589, Pueblo Libre, Pueblo Libre 15084, Peru",
+    "address_line1": "Avenida Manuel Cipriano Dulanto 1589",
+    "address_line2": "Pueblo Libre, Pueblo Libre 15084, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V4WWFH+64",
+    "rank": {
+      "importance": 0.05341063477531087,
+      "popularity": 7.179059523909255,
+      "confidence": 0.75,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "confidence_building_level": 0.75,
+      "match_type": "full_match"
+    },
+    "place_id": "5144ceb1729e4453c059cbac94545c2728c0c00203",
+    "bbox": {
+      "lon1": -77.0763419,
+      "lat1": -12.078703,
+      "lon2": -77.0653904,
+      "lat2": -12.0755269
+    }
+  },
+  "5cfda067ed12d99fb24f510fe872d4de2f227c938fa9b8140133163611808b9f": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "Los Olivos",
+    "postcode": "15301",
+    "district": "Urbanización Villa los Ángeles",
+    "suburb": "Los Olivos",
+    "street": "Avenida Carlos Alberto Izaguirre",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -77.0701882,
+    "lat": -11.9912204,
+    "state_code": "LIM",
+    "housenumber": "789",
+    "result_type": "building",
+    "formatted": "Avenida Carlos Alberto Izaguirre 789, Los Olivos, Los Olivos 15301, Peru",
+    "address_line1": "Avenida Carlos Alberto Izaguirre 789",
+    "address_line2": "Los Olivos, Los Olivos 15301, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57W42W5H+GW",
+    "rank": {
+      "importance": 0.05341063477531087,
+      "popularity": 7.709847565591527,
+      "confidence": 0.7695,
+      "confidence_city_level": 1,
+      "confidence_street_level": 0.81,
+      "confidence_building_level": 0.7695,
+      "match_type": "full_match"
+    },
+    "place_id": "512be4a5f67d4453c0598e41823d81fb27c0c00203",
+    "bbox": {
+      "lon1": -77.0715165,
+      "lat1": -11.9909535,
+      "lon2": -77.0682578,
+      "lat2": -11.9904686
+    }
+  },
+  "8cc6f38f465b9f73883699257668b0f0a1447c2adb346d412c594372bc056485": {
+    "country_code": "pe",
+    "housenumber": "1445",
+    "street": "Avenida 28 de Julio",
+    "country": "Peru",
+    "county": "Lima",
+    "datasource": {
+      "sourcename": "mixed"
+    },
+    "state": "Lima",
+    "state_code": "LR",
+    "county_code": "LMA",
+    "city": "Miraflores",
+    "iso3166_2": "PE-LIM",
+    "lon": -77.0186293,
+    "lat": -12.1304234,
+    "result_type": "building",
+    "suburb": "Miraflores",
+    "district": "Cocharcas",
+    "postcode": "10574",
+    "formatted": "Avenida 28 de Julio 1445, Miraflores, Miraflores 10574, Peru",
+    "address_line1": "Avenida 28 de Julio 1445",
+    "address_line2": "Miraflores, Miraflores 10574, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V4VX9J+RG",
+    "rank": {
+      "popularity": 7.738300342573749,
+      "confidence": 1,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "confidence_building_level": 1,
+      "match_type": "full_match"
+    },
+    "place_id": "51d58ff238314153c05929441bdbc64228c0c00203e2031f6d697865643a616464726573733a706f6c796c696e653a3332353735313039"
+  },
+  "3aca52770909acd12a270555bd341fafdbb006a7e52be83a008fa4bf3a7bd03b": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "Mall Aventura San Juan de Lurigancho",
+    "other_names": {
+      "brand": "Mall Aventura"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "San Juan de Lurigancho",
+    "postcode": "15427",
+    "district": "El Pueblito",
+    "suburb": "San Juan de Lurigancho",
+    "quarter": "Zárate",
+    "street": "Lurigancho Avenue",
+    "housenumber": "997",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -76.9992319,
+    "lat": -12.0162569,
+    "state_code": "LIM",
+    "result_type": "amenity",
+    "formatted": "Mall Aventura San Juan de Lurigancho, Lurigancho Avenue 997, San Juan de Lurigancho, San Juan de Lurigancho 15427, Peru",
+    "address_line1": "Mall Aventura San Juan de Lurigancho",
+    "address_line2": "Lurigancho Avenue 997, San Juan de Lurigancho, San Juan de Lurigancho 15427, Peru",
+    "category": "commercial.shopping_mall",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V5X2M2+F8",
+    "rank": {
+      "importance": 7.730144197752372e-05,
+      "popularity": 7.493527149650041,
+      "confidence": 1,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "confidence_building_level": 1,
+      "match_type": "full_match"
+    },
+    "place_id": "51ade75a6af33f53c0592fab0bd3520828c0f00102f901baeff30a00000000c002019203244d616c6c204176656e747572612053616e204a75616e206465204c75726967616e63686f",
+    "bbox": {
+      "lon1": -77.0009177,
+      "lat1": -12.0171242,
+      "lon2": -76.998332,
+      "lat2": -12.015437
+    }
+  },
+  "7e1a09cd2ee893c920dbf357b2a0156331f4f9a34b1ec245fc9e56a72fadca67": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "San Borja",
+    "postcode": "15038",
+    "district": "Urb. Juan XXIII",
+    "suburb": "San Borja",
+    "street": "Avenida Aviación",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -77.0013449,
+    "lat": -12.1039962,
+    "state_code": "LIM",
+    "housenumber": "3341",
+    "result_type": "building",
+    "formatted": "Avenida Aviación 3341, San Borja, San Borja 15038, Peru",
+    "address_line1": "Avenida Aviación 3341",
+    "address_line2": "San Borja, San Borja 15038, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V4VXWX+CF",
+    "rank": {
+      "importance": 0.05341063477531087,
+      "popularity": 7.551622366763565,
+      "confidence": 0.75,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "confidence_building_level": 0.75,
+      "match_type": "full_match"
+    },
+    "place_id": "510d61eb08164053c05909d16bfd3e3528c0c00203",
+    "bbox": {
+      "lon1": -77.0007361,
+      "lat1": -12.1115149,
+      "lon2": -77.0003484,
+      "lat2": -12.1087089
+    }
+  },
+  "c3c99d1fecba8a0733f4c642b46711123054e02142248d5083f4dc87115e0bd1": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "Chorrillos",
+    "postcode": "15067",
+    "suburb": "Delicias de Villa",
+    "street": "Avenida Defensores del Morro",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -76.9988965,
+    "lat": -12.1975083,
+    "state_code": "LIM",
+    "housenumber": "448",
+    "result_type": "building",
+    "formatted": "Avenida Defensores del Morro 448, Delicias de Villa, Chorrillos 15067, Peru",
+    "address_line1": "Avenida Defensores del Morro 448",
+    "address_line2": "Delicias de Villa, Chorrillos 15067, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V5R222+XC",
+    "rank": {
+      "importance": 0.05341063477531087,
+      "popularity": 6.9643581985882825,
+      "confidence": 0.5,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "confidence_building_level": 0,
+      "match_type": "full_match"
+    },
+    "place_id": "51b0e595ebed3f53c0598b60d2ce1f6528c0c00203",
+    "bbox": {
+      "lon1": -77.0011567,
+      "lat1": -12.1998071,
+      "lon2": -76.9967634,
+      "lat2": -12.1952587
+    }
+  },
+  "7ada928038954240acb2ba3654f9dadc53b39dd6d97b9454b727d07b7bd5292c": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "other_names": {
+      "alt_name": "Pascual de Vivero"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "Magdalena del Mar",
+    "postcode": "15086",
+    "suburb": "Magdalena",
+    "street": "Jirón Tacna",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -77.0712577,
+    "lat": -12.0905804,
+    "state_code": "LIM",
+    "housenumber": "860",
+    "result_type": "building",
+    "formatted": "Jirón Tacna 860, Magdalena, Magdalena del Mar 15086, Peru",
+    "address_line1": "Jirón Tacna 860",
+    "address_line2": "Magdalena, Magdalena del Mar 15086, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V4WW5H+QF",
+    "rank": {
+      "importance": 0.05341063477531087,
+      "popularity": 7.738300342573749,
+      "confidence": 0.675,
+      "confidence_city_level": 1,
+      "confidence_street_level": 0.9,
+      "confidence_building_level": 0.675,
+      "match_type": "full_match"
+    },
+    "place_id": "51a5c5747c8f4453c0593451df8d602e28c0c00203",
+    "bbox": {
+      "lon1": -77.0702991,
+      "lat1": -12.0880843,
+      "lon2": -77.0690279,
+      "lat2": -12.0846543
+    }
+  },
+  "02ccd399c4497e403473ba9d98c0013414016400288f74b7d08851c09666f3c7": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "Avenida Nicolás de Ayllón",
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "Santa Anita",
+    "postcode": "15009",
+    "suburb": "Santa Anita",
+    "street": "Avenida Nicolás de Ayllón",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -76.953156,
+    "lat": -12.0497331,
+    "state_code": "LIM",
+    "result_type": "street",
+    "formatted": "Avenida Nicolás de Ayllón, Santa Anita, Santa Anita 15009, Peru",
+    "address_line1": "Avenida Nicolás de Ayllón",
+    "address_line2": "Santa Anita, Santa Anita 15009, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V5X22W+4P",
+    "rank": {
+      "importance": 0.05341063477531087,
+      "popularity": 7.307146589627129,
+      "confidence": 0.405,
+      "confidence_city_level": 1,
+      "confidence_street_level": 0.81,
+      "match_type": "match_by_street"
+    },
+    "place_id": "511eff0582003d53c059b10eec9d761928c0f00102f9019fc2cf2300000000c0020492031b4176656e696461204e69636f6cc3a1732064652041796c6cc3b36e",
+    "bbox": {
+      "lon1": -76.9546947,
+      "lat1": -12.0503512,
+      "lon2": -76.9516172,
+      "lat2": -12.049115
+    }
+  },
+  "e3ce232e4727989f725405dd5e05bf2a26cdc04d0a1074cc752ad3c7744be603": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "La Molina",
+    "postcode": "15012",
+    "district": "Santa Patricia 1era Etapa",
+    "street": "Avenida Flora Tristán",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -76.9418903,
+    "lat": -12.0704777,
+    "state_code": "LIM",
+    "housenumber": "471",
+    "result_type": "building",
+    "formatted": "Avenida Flora Tristán 471, La Molina 15012, Peru",
+    "address_line1": "Avenida Flora Tristán 471",
+    "address_line2": "La Molina 15012, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V5W3H5+R6",
+    "plus_code_short": "H5+R6 La Molina, Lima Metropolitan Area, Peru",
+    "rank": {
+      "importance": 0.05341063477531087,
+      "popularity": 6.864272518208742,
+      "confidence": 0.75,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "confidence_building_level": 0.75,
+      "match_type": "full_match"
+    },
+    "place_id": "51dbba40ee473c53c059d13131a7152428c0c00203",
+    "bbox": {
+      "lon1": -76.9406273,
+      "lat1": -12.075712,
+      "lon2": -76.93935,
+      "lat2": -12.0722348
+    }
+  },
+  "7850a58e7cffc30561fe2f4c508ecdcc259caeb9b4b25b8d16cd5348b04761f7": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "San Miguel",
+    "postcode": "15032",
+    "suburb": "San Miguel",
+    "street": "Avenida Brigida Silva de Ochoa",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -77.0878596,
+    "lat": -12.0802049,
+    "state_code": "LIM",
+    "housenumber": "316",
+    "result_type": "building",
+    "formatted": "Avenida Brigida Silva de Ochoa 316, San Miguel, San Miguel 15032, Peru",
+    "address_line1": "Avenida Brigida Silva de Ochoa 316",
+    "address_line2": "San Miguel, San Miguel 15032, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V4WW96+WV",
+    "rank": {
+      "importance": 0.05341063477531087,
+      "popularity": 7.635890173156904,
+      "confidence": 0.75,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "confidence_building_level": 0.75,
+      "match_type": "full_match"
+    },
+    "place_id": "51f028df7d9f4553c05939f5dc9d102928c0c00203",
+    "bbox": {
+      "lon1": -77.0888781,
+      "lat1": -12.0820013,
+      "lon2": -77.0886205,
+      "lat2": -12.0814707
+    }
+  },
+  "740e838142c697473f2b887cbb0b52b09cbc2eeda04defc0593a8001bbe501e1": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "San Miguel",
+    "postcode": "15032",
+    "suburb": "San Miguel",
+    "street": "Boulevard Mantaro",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -77.0824914,
+    "lat": -12.0760849,
+    "state_code": "LIM",
+    "housenumber": "326",
+    "result_type": "building",
+    "county_code": "LI",
+    "formatted": "Boulevard Mantaro 326, San Miguel, San Miguel 15032, Peru",
+    "address_line1": "Boulevard Mantaro 326",
+    "address_line2": "San Miguel, San Miguel 15032, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V4WWF9+H2",
+    "rank": {
+      "importance": 0.05341063477531087,
+      "popularity": 7.738300342573749,
+      "confidence": 0.5,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "confidence_building_level": 0,
+      "match_type": "full_match"
+    },
+    "place_id": "51e14c028a474553c05959709a99f42628c0c00203e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3236323233343533",
+    "bbox": {
+      "lon1": -77.0842801,
+      "lat1": -12.0763528,
+      "lon2": -77.0807327,
+      "lat2": -12.0759763
+    }
+  },
+  "564268f6f487f81d70802d946c6255400d6760d3331a66cebaea06445fa16646": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "Santiago de Surco",
+    "postcode": "51132",
+    "district": "El Derby de Monterrico",
+    "suburb": "Monterrico",
+    "street": "Avenida El Polo",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -76.9741025,
+    "lat": -12.1074509,
+    "state_code": "LIM",
+    "housenumber": "266",
+    "result_type": "building",
+    "formatted": "Avenida El Polo 266, Monterrico, Santiago de Surco 51132, Peru",
+    "address_line1": "Avenida El Polo 266",
+    "address_line2": "Monterrico, Santiago de Surco 51132, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V5V2VG+29",
+    "plus_code_short": "V2VG+29 Santiago de Surco, Lima Metropolitan Area, Peru",
+    "rank": {
+      "importance": 0.05341063477531087,
+      "popularity": 7.511966928460819,
+      "confidence": 0.675,
+      "confidence_city_level": 1,
+      "confidence_street_level": 0.9,
+      "confidence_building_level": 0.675,
+      "match_type": "full_match"
+    },
+    "place_id": "51eb1c03b2573e53c059fed9eacd033728c0c00203",
+    "bbox": {
+      "lon1": -76.9745053,
+      "lat1": -12.1084685,
+      "lon2": -76.9726522,
+      "lat2": -12.1037882
+    }
+  },
+  "3447d1fdd10aa7d5424eeb73db864a85d3b04777105f8a84ef38e97319845ae5": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "Jesús María",
+    "postcode": "15072",
+    "district": "Oyague",
+    "suburb": "Jesús María",
+    "street": "Jirón Mariscal Toribio Luzuriaga",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -77.0495793,
+    "lat": -12.0751777,
+    "state_code": "LIM",
+    "housenumber": "401",
+    "result_type": "building",
+    "formatted": "Jirón Mariscal Toribio Luzuriaga 401, Jesús María, Jesús María 15072, Peru",
+    "address_line1": "Jirón Mariscal Toribio Luzuriaga 401",
+    "address_line2": "Jesús María, Jesús María 15072, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V4WXF2+W5",
+    "rank": {
+      "importance": 0.05341063477531087,
+      "popularity": 7.738300342573749,
+      "confidence": 0.6075,
+      "confidence_city_level": 1,
+      "confidence_street_level": 0.81,
+      "confidence_building_level": 0.6075,
+      "match_type": "full_match"
+    },
+    "place_id": "51c003a84e2c4353c059e9c605b17d2628c0c00203",
+    "bbox": {
+      "lon1": -77.0521059,
+      "lat1": -12.0764178,
+      "lon2": -77.0479824,
+      "lat2": -12.0731785
+    }
+  },
+  "219fbe3579c9e2e0a1989ec8c3d152fb58caa38ac2fc13218277649c8a233349": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "Punta Hermosa",
+    "postcode": "15846",
+    "street": "Avenida G. Garcia Rada",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -76.824809,
+    "lat": -12.3371431,
+    "state_code": "LIM",
+    "housenumber": "148",
+    "result_type": "building",
+    "county_code": "LI",
+    "formatted": "Avenida G. Garcia Rada 148, Punta Hermosa 15846, Peru",
+    "address_line1": "Avenida G. Garcia Rada 148",
+    "address_line2": "Punta Hermosa 15846, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V5M57G+43",
+    "plus_code_short": "7G+43 Punta Hermosa, Lima Metropolitan Area, Peru",
+    "rank": {
+      "importance": 0.05341063477531087,
+      "popularity": 5.077616903989398,
+      "confidence": 0.5,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "confidence_building_level": 0,
+      "match_type": "full_match"
+    },
+    "place_id": "51931cb0abc93453c059e52439059eac28c0c00203e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3236323339343937",
+    "bbox": {
+      "lon1": -76.8248503,
+      "lat1": -12.3373363,
+      "lon2": -76.8247813,
+      "lat2": -12.3369511
+    }
+  },
+  "21b0d56af14adbc611a7aa5087bd7bd80aeef66ac46ecc95ae0c83a76ce8805e": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "Villa El Salvador",
+    "postcode": "15831",
+    "suburb": "Villa El Salvador",
+    "quarter": "Sector 2",
+    "street": "Avenida Micaela Bastidas",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -76.946062,
+    "lat": -12.208651,
+    "state_code": "LIM",
+    "housenumber": "522",
+    "result_type": "building",
+    "formatted": "Avenida Micaela Bastidas 522, Villa El Salvador, Villa El Salvador 15831, Peru",
+    "address_line1": "Avenida Micaela Bastidas 522",
+    "address_line2": "Villa El Salvador, Villa El Salvador 15831, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V5Q3R3+GH",
+    "rank": {
+      "importance": 0.05341063477531087,
+      "popularity": 7.092605503658027,
+      "confidence": 0.5,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "confidence_building_level": 0,
+      "match_type": "full_match"
+    },
+    "place_id": "51417fa1478c3c53c0592e8eca4dd46a28c0c00203",
+    "bbox": {
+      "lon1": -76.9490587,
+      "lat1": -12.2136371,
+      "lon2": -76.9430622,
+      "lat2": -12.2036631
+    }
+  },
+  "e91360ab5a576e789e49cada65190471c34603fc67eac6436c5bc3c9654991e3": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "Ate",
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "Ate",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -76.896873,
+    "lat": -12.0387281,
+    "state_code": "LIM",
+    "result_type": "city",
+    "distance": 0,
+    "formatted": "Ate, LIM, Peru",
+    "address_line1": "Ate",
+    "address_line2": "LIM, Peru",
+    "category": "administrative",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V5X463+G7",
+    "rank": {
+      "importance": 0.4141856465713948,
+      "popularity": 5.82925470349589,
+      "confidence": 0.25,
+      "confidence_city_level": 1,
+      "match_type": "match_by_city_or_disrict"
+    },
+    "place_id": "5196ea025e663953c05958df652bd41328c0f00101f9016bac1d0000000000c00208920303417465",
+    "bbox": {
+      "lon1": -76.9980957,
+      "lat1": -12.0848793,
+      "lon2": -76.7828587,
+      "lat2": -11.9925885
+    }
+  },
+  "695888eeece0f144785682f2e54689829b5b4dc33d5e26b9460048c4ed967e8e": {
+    "country_code": "pe",
+    "housenumber": "2440",
+    "street": "Avenida Arequipa",
+    "country": "Peru",
+    "county": "Lima",
+    "datasource": {
+      "sourcename": "mixed"
+    },
+    "state": "Lima",
+    "state_code": "LR",
+    "county_code": "LMA",
+    "city": "Lince",
+    "iso3166_2": "PE-LIM",
+    "lon": -77.0338112,
+    "lat": -12.0884949,
+    "result_type": "building",
+    "suburb": "Lince",
+    "postcode": "15046",
+    "formatted": "Avenida Arequipa 2440, Lince, Lince 15046, Peru",
+    "address_line1": "Avenida Arequipa 2440",
+    "address_line2": "Lince, Lince 15046, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V4WX68+JF",
+    "rank": {
+      "popularity": 7.738300342573749,
+      "confidence": 0.9,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "confidence_building_level": 1,
+      "match_type": "match_by_building"
+    },
+    "place_id": "51448f73f6294253c059c0b91a344f2d28c0c00203e2031f6d697865643a616464726573733a706f6c796c696e653a3332353735303939"
+  },
+  "26c2c8d7bfa8c69ba2643c39f3ffff106aebf201e0f10e5256dfaa54efa284f9": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "ref": "PE-1N",
+    "other_names": {
+      "ref": "PE-1N"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lambayeque",
+    "state": "Lambayeque",
+    "city": "Lambayeque",
+    "postcode": "14013",
+    "street": "Panamericana Norte",
+    "iso3166_2": "PE-LAM",
+    "lon": -79.8949548,
+    "lat": -6.7194439,
+    "state_code": "LAM",
+    "housenumber": "639",
+    "result_type": "building",
+    "formatted": "Panamericana Norte 639, Lambayeque 14013, Peru",
+    "address_line1": "Panamericana Norte 639",
+    "address_line2": "Lambayeque 14013, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "675274J4+62",
+    "plus_code_short": "74J4+62 Lambayeque, Peru",
+    "rank": {
+      "importance": 0.05338172198062101,
+      "popularity": 1.5136329773115318,
+      "confidence": 0.405,
+      "confidence_city_level": 1,
+      "confidence_street_level": 0.9,
+      "confidence_building_level": 0,
+      "match_type": "match_by_building"
+    },
+    "place_id": "517c597ff046f953c0590e3ad7e6b5e01ac0c00203",
+    "bbox": {
+      "lon1": -79.9019296,
+      "lat1": -6.7287728,
+      "lon2": -79.8889229,
+      "lat2": -6.7108068
+    }
+  },
+  "b0593a8f2280466f1cbfb2af8cd72cb50a54c1959e9d7884a3ec68a21047185d": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "Mall Aventura San Juan de Lurigancho",
+    "other_names": {
+      "brand": "Mall Aventura"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "San Juan de Lurigancho",
+    "postcode": "15427",
+    "district": "El Pueblito",
+    "suburb": "San Juan de Lurigancho",
+    "quarter": "Zárate",
+    "street": "Lurigancho Avenue",
+    "housenumber": "997",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -76.9992319,
+    "lat": -12.0162569,
+    "state_code": "LIM",
+    "result_type": "amenity",
+    "formatted": "Mall Aventura San Juan de Lurigancho, Lurigancho Avenue 997, San Juan de Lurigancho, San Juan de Lurigancho 15427, Peru",
+    "address_line1": "Mall Aventura San Juan de Lurigancho",
+    "address_line2": "Lurigancho Avenue 997, San Juan de Lurigancho, San Juan de Lurigancho 15427, Peru",
+    "category": "commercial.shopping_mall",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V5X2M2+F8",
+    "rank": {
+      "importance": 7.730144197752372e-05,
+      "popularity": 7.493527149650041,
+      "confidence": 1,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "confidence_building_level": 1,
+      "match_type": "full_match"
+    },
+    "place_id": "51ade75a6af33f53c0592fab0bd3520828c0f00102f901baeff30a00000000c002019203244d616c6c204176656e747572612053616e204a75616e206465204c75726967616e63686f",
+    "bbox": {
+      "lon1": -77.0009177,
+      "lat1": -12.0171242,
+      "lon2": -76.998332,
+      "lat2": -12.015437
+    }
+  },
+  "8aacb64a73449e0c819cff2ec1277ffe29aef3a4cfbf2a282859bd9ab51274eb": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "Real Plaza Puruchuco",
+    "other_names": {
+      "brand": "Real Plaza"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "Ate",
+    "postcode": "15498",
+    "street": "Nicolas de Ayllon Avenue",
+    "housenumber": "4770",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -76.932244,
+    "lat": -12.040852,
+    "state_code": "LIM",
+    "result_type": "amenity",
+    "formatted": "Real Plaza Puruchuco, Nicolas de Ayllon Avenue 4770, Ate 15498, Peru",
+    "address_line1": "Real Plaza Puruchuco",
+    "address_line2": "Nicolas de Ayllon Avenue 4770, Ate 15498, Peru",
+    "category": "commercial.shopping_mall",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V5X359+M4",
+    "rank": {
+      "importance": 0.2753675655596695,
+      "popularity": 7.237438776761112,
+      "confidence": 0.7,
+      "confidence_city_level": 1,
+      "confidence_street_level": 0.7,
+      "confidence_building_level": 0.7,
+      "match_type": "full_match"
+    },
+    "place_id": "511af9bce2a93b53c059cff3a78dea1428c0f00102f901e975011a00000000c002019203145265616c20506c617a612050757275636875636f",
+    "bbox": {
+      "lon1": -76.9335972,
+      "lat1": -12.0437182,
+      "lon2": -76.9306246,
+      "lat2": -12.038285
+    }
+  },
+  "2923ef54e9369dee0a8c2ad6add2e3b03e4e310235daf989545b15a4b26af4c9": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "Open Plaza",
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "San Miguel",
+    "postcode": "15087",
+    "district": "Maranga 2",
+    "suburb": "San Miguel",
+    "street": "Avenida La Marina",
+    "housenumber": "2355",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -77.0886904,
+    "lat": -12.0795829,
+    "state_code": "LIM",
+    "result_type": "amenity",
+    "formatted": "Open Plaza, Avenida La Marina 2355, San Miguel, San Miguel 15087, Peru",
+    "address_line1": "Open Plaza",
+    "address_line2": "Avenida La Marina 2355, San Miguel, San Miguel 15087, Peru",
+    "category": "commercial.shopping_mall",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V4WWC6+5G",
+    "rank": {
+      "importance": 7.730144197752372e-05,
+      "popularity": 7.738300342573749,
+      "confidence": 0.7,
+      "confidence_city_level": 1,
+      "confidence_street_level": 0.7,
+      "confidence_building_level": 0.7,
+      "match_type": "inner_part"
+    },
+    "place_id": "5107de7f1aad4553c05945a40117bf2828c0f00102f901c68b040c00000000c0020192030a4f70656e20506c617a61",
+    "bbox": {
+      "lon1": -77.0894775,
+      "lat1": -12.0804447,
+      "lon2": -77.0879034,
+      "lat2": -12.0788669
+    }
+  },
+  "4ab6fe0a66e90664bb279802fa332471c3a690812a0072f86e726956ebcb2387": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "other_names": {
+      "alt_name": "Angamos Este"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "San Borja",
+    "postcode": "51132",
+    "district": "Urb. Chacarilla del Estanque (San Borja)",
+    "suburb": "San Borja",
+    "street": "Avenida Primavera",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -76.985394,
+    "lat": -12.1108697,
+    "state_code": "LIM",
+    "housenumber": "737",
+    "result_type": "building",
+    "formatted": "Avenida Primavera 737, San Borja, San Borja 51132, Peru",
+    "address_line1": "Avenida Primavera 737",
+    "address_line2": "San Borja, San Borja 51132, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V5V2Q7+MR",
+    "rank": {
+      "importance": 0.05341063477531087,
+      "popularity": 7.518212659993501,
+      "confidence": 0.75,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "confidence_building_level": 0.75,
+      "match_type": "full_match"
+    },
+    "place_id": "512debfeb1103f53c059133ccfe9c33828c0c00203",
+    "bbox": {
+      "lon1": -76.984444,
+      "lat1": -12.1105715,
+      "lon2": -76.9827693,
+      "lat2": -12.1104501
+    }
+  },
+  "d2b0506820d059a67520803f854ad4cd95c6e162a1b0e315d3c5b08cb31dde64": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "La Molina",
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "La Molina",
+    "postcode": "15026",
+    "suburb": "La Molina",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -76.9172838,
+    "lat": -12.077983,
+    "state_code": "LIM",
+    "result_type": "suburb",
+    "distance": 0,
+    "formatted": "La Molina, LIM, Peru",
+    "address_line1": "La Molina",
+    "address_line2": "La Molina, LIM, Peru",
+    "category": "populated_place",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V5W3CM+R3",
+    "plus_code_short": "W3CM+R3 La Molina, Lima Metropolitan Area, Peru",
+    "rank": {
+      "importance": 0.14674396810864418,
+      "popularity": 5.963426307948789,
+      "confidence": 0.25,
+      "confidence_city_level": 1,
+      "match_type": "match_by_city_or_disrict"
+    },
+    "place_id": "51a4891cc7b43a53c059b6494563ed2728c0f00103f901a99d297d00000000c002059203094c61204d6f6c696e61",
+    "bbox": {
+      "lon1": -76.9372838,
+      "lat1": -12.097983,
+      "lon2": -76.8972838,
+      "lat2": -12.057983
+    }
+  },
+  "ac0a5d5f76c14fd71c1a82dc84310aa0dbf8782f219d65d10be045511934e5e0": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "Bitcoin ATM - Shitcoins.club",
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "Comas",
+    "postcode": "15314",
+    "district": "Alameda Algarrobos",
+    "street": "Avenida Los Ángeles",
+    "housenumber": "602",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -77.0663266,
+    "lat": -11.9369405,
+    "state_code": "LIM",
+    "result_type": "amenity",
+    "formatted": "Bitcoin ATM - Shitcoins.club, Avenida Los Ángeles 602, Comas 15314, Peru",
+    "address_line1": "Bitcoin ATM - Shitcoins.club",
+    "address_line2": "Avenida Los Ángeles 602, Comas 15314, Peru",
+    "category": "service.financial.atm",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57W43W7M+6F",
+    "rank": {
+      "importance": 7.730144197752372e-05,
+      "popularity": 7.106985764794012,
+      "confidence": 0.9,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "confidence_building_level": 1,
+      "match_type": "full_match"
+    },
+    "place_id": "51b676ecb13e4453c05985984baab6df27c0f00103f901da8d4aca02000000c0020192031c426974636f696e2041544d202d2053686974636f696e732e636c7562",
+    "bbox": {
+      "lon1": -77.0663766,
+      "lat1": -11.9369905,
+      "lon2": -77.0662766,
+      "lat2": -11.9368905
+    }
+  },
+  "865b9a4ca183500d07d91ebfb4e6954a3c786aadcfc1216b42be4fe9c70a511d": {
+    "country_code": "pe",
+    "street": "Los Lirios",
+    "country": "Peru",
+    "county": "Lima",
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "state": "Lima",
+    "state_code": "LR",
+    "county_code": "LMA",
+    "city": "San Juan de Miraflores",
+    "iso3166_2": "PE-LIM",
+    "lon": -76.955355,
+    "lat": -12.16546,
+    "housenumber": "310",
+    "result_type": "building",
+    "region": "Province of Lima",
+    "postcode": "15809",
+    "district": "Villa Jardín",
+    "suburb": "Villa María del Triunfo",
+    "iso3166_2_sublevel": "PE-LMA",
+    "formatted": "Los Lirios 310, Villa María del Triunfo, San Juan de Miraflores 15809, Peru",
+    "address_line1": "Los Lirios 310",
+    "address_line2": "Villa María del Triunfo, San Juan de Miraflores 15809, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V5R2MV+RV",
+    "rank": {
+      "importance": 0.05341063477531087,
+      "popularity": 7.112834941943667,
+      "confidence": 0.45,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "confidence_building_level": 0,
+      "match_type": "match_by_building"
+    },
+    "place_id": "517c444c89243d53c059a297512cb75428c0c00203e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3237303132313238",
+    "bbox": {
+      "lon1": -76.956855,
+      "lat1": -12.166372,
+      "lon2": -76.953888,
+      "lat2": -12.16445
+    }
+  },
+  "c9d02279cce0dbdb7eb48b0f0f75a57468354b2fc687375ae223db2c8ea79469": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "Antar Retail Perú",
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "Independencia",
+    "postcode": "15311",
+    "district": "Urbanización Mesa Redonda",
+    "suburb": "Independencia",
+    "street": "Avenida Alfredo Mendiola",
+    "housenumber": "1400",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -77.0590782,
+    "lat": -12.0068727,
+    "state_code": "LIM",
+    "county_code": "LI",
+    "result_type": "building",
+    "formatted": "Antar Retail Perú, Avenida Alfredo Mendiola 1400, Independencia, Independencia 15311, Peru",
+    "address_line1": "Antar Retail Perú",
+    "address_line2": "Avenida Alfredo Mendiola 1400, Independencia, Independencia 15311, Peru",
+    "category": "commercial.clothing.clothes",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V4XWVR+79",
+    "plus_code_short": "XWVR+79, 15311 Independencia, Peru",
+    "rank": {
+      "importance": 7.730144197752372e-05,
+      "popularity": 7.738300342573749,
+      "confidence": 0.5,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "confidence_building_level": 1,
+      "match_type": "full_match"
+    },
+    "place_id": "51053aeeefc74353c0596f788bd1840328c0f00103f9010391db9602000000c00203920312416e7461722052657461696c20506572c3bae203266f70656e7374726565746d61703a616464726573733a6e6f64652f3131313230393036343939",
+    "bbox": {
+      "lon1": -77.0591282,
+      "lat1": -12.0069227,
+      "lon2": -77.0590282,
+      "lat2": -12.0068227
+    }
+  },
+  "0f314682c7750ce0c308a5caed812c3d3e539fd0584b7a2c61d196ba0bc7eece": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "Jirón Vittore Carpaccio",
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "San Borja",
+    "postcode": "15036",
+    "suburb": "San Borja",
+    "street": "Jirón Vittore Carpaccio",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -77.0058159,
+    "lat": -12.091122,
+    "state_code": "LIM",
+    "result_type": "street",
+    "formatted": "Jirón Vittore Carpaccio, San Borja, San Borja 15036, Peru",
+    "address_line1": "Jirón Vittore Carpaccio",
+    "address_line2": "San Borja, San Borja 15036, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V4WX5V+HM",
+    "rank": {
+      "importance": 0.05341063477531087,
+      "popularity": 7.738300342573749,
+      "confidence": 0.45,
+      "confidence_city_level": 1,
+      "confidence_street_level": 0.9,
+      "match_type": "match_by_street"
+    },
+    "place_id": "51ff12a7495f4053c05969e4f38aa72e28c0f00102f901a873660200000000c002049203184a6972c3b36e20566974746f72652043617270616363696f",
+    "bbox": {
+      "lon1": -77.0062271,
+      "lat1": -12.091623,
+      "lon2": -77.0052872,
+      "lat2": -12.090743
+    }
+  },
+  "4c4479cda422f363aef0742098505cf02201808dd2c461445df1a709fe5c99af": {
+    "country_code": "pe",
+    "housenumber": "2370",
+    "street": "Avenida Felipe Salaverry",
+    "country": "Peru",
+    "county": "Lima",
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "postcode": "15072",
+    "state": "Lima",
+    "state_code": "LR",
+    "county_code": "LMA",
+    "city": "Jesús María",
+    "iso3166_2": "PE-LIM",
+    "lon": -77.05214,
+    "lat": -12.090303,
+    "result_type": "building",
+    "suburb": "Jesús María",
+    "formatted": "Avenida Felipe Salaverry 2370, Jesús María, Jesús María 15072, Peru",
+    "address_line1": "Avenida Felipe Salaverry 2370",
+    "address_line2": "Jesús María, Jesús María 15072, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V4WW5X+V4",
+    "rank": {
+      "popularity": 7.738300342573749,
+      "confidence": 0.7290000000000001,
+      "confidence_city_level": 1,
+      "confidence_street_level": 0.81,
+      "confidence_building_level": 0.81,
+      "match_type": "match_by_building"
+    },
+    "place_id": "510fb40243564353c0591d76df313c2e28c0f00102f90104f4431100000000c00203e203236f70656e7374726565746d61703a616464726573733a7761792f323839363636303532"
+  },
+  "de4725a21d7089657e6e795438c9ad57e6ffca940538981c34ac95d07e9bd792": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "San Miguel Plaza",
+    "other_names": {
+      "name": "Plaza San Miguel",
+      "name:es": "Plaza San Miguel"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "San Miguel",
+    "postcode": "15088",
+    "district": "Maranga 2",
+    "suburb": "San Miguel",
+    "street": "Avenida La Marina",
+    "housenumber": "2000",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -77.0827179,
+    "lat": -12.0769403,
+    "state_code": "LIM",
+    "result_type": "amenity",
+    "formatted": "San Miguel Plaza, Avenida La Marina 2000, San Miguel, San Miguel 15088, Peru",
+    "address_line1": "San Miguel Plaza",
+    "address_line2": "Avenida La Marina 2000, San Miguel, San Miguel 15088, Peru",
+    "category": "commercial.shopping_mall",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V4WWF8+6W",
+    "rank": {
+      "importance": 0.21822785325192331,
+      "popularity": 7.738300342573749,
+      "confidence": 0.9,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "confidence_building_level": 1,
+      "match_type": "full_match"
+    },
+    "place_id": "51ced204404b4553c059267d10b8642728c0f00102f9018979010c00000000c0020192031053616e204d696775656c20506c617a61",
+    "bbox": {
+      "lon1": -77.0844113,
+      "lat1": -12.0777397,
+      "lon2": -77.0808308,
+      "lat2": -12.0760786
+    }
+  },
+  "8e009ddfd953a49fe07d7335d50b50e0eca1ec2cfe9d184250b089d6e9de640d": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "Petit Pé",
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "Santiago de Surco",
+    "postcode": "15041",
+    "district": "Jacaranda Etapa Dos",
+    "street": "Javier Prado Este",
+    "housenumber": "4200",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -76.9772265,
+    "lat": -12.0870989,
+    "state_code": "LIM",
+    "result_type": "amenity",
+    "formatted": "Petit Pé, Javier Prado Este 4200, Santiago de Surco 15041, Peru",
+    "address_line1": "Petit Pé",
+    "address_line2": "Javier Prado Este 4200, Santiago de Surco 15041, Peru",
+    "category": "commercial",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V5W27F+54",
+    "plus_code_short": "W27F+54 Santiago de Surco, Lima Metropolitan Area, Peru",
+    "rank": {
+      "importance": 7.730144197752372e-05,
+      "popularity": 7.738300342573749,
+      "confidence": 0.9,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "confidence_building_level": 1,
+      "match_type": "full_match"
+    },
+    "place_id": "51369204e18a3e53c05900091e3a982c28c0f00103f90192d72b7901000000c0020192030950657469742050c3a9",
+    "bbox": {
+      "lon1": -76.9772765,
+      "lat1": -12.0871489,
+      "lon2": -76.9771765,
+      "lat2": -12.0870489
+    }
+  },
+  "fdb66319d68c04180947e7e303830059fb8b1db44609f2dea985ae99d79fed5a": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "Miraflores",
+    "postcode": "15074",
+    "district": "Santa Cruz",
+    "suburb": "Miraflores",
+    "street": "Avenida Santa Cruz",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -77.0415547,
+    "lat": -12.1170701,
+    "state_code": "LIM",
+    "housenumber": "824",
+    "result_type": "building",
+    "formatted": "Avenida Santa Cruz 824, Miraflores, Miraflores 15074, Peru",
+    "address_line1": "Avenida Santa Cruz 824",
+    "address_line2": "Miraflores, Miraflores 15074, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V4VXM5+59",
+    "rank": {
+      "importance": 0.05341063477531087,
+      "popularity": 7.6805025412474945,
+      "confidence": 0.75,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "confidence_building_level": 0.75,
+      "match_type": "full_match"
+    },
+    "place_id": "51b05f0bd5a84253c059ccadb59cf03b28c0c00203",
+    "bbox": {
+      "lon1": -77.0426569,
+      "lat1": -12.1187156,
+      "lon2": -77.0406987,
+      "lat2": -12.1151402
+    }
+  },
+  "6d3ec0fbd65027f22ee9539b523d9db9c0b9727d86f219042f50f7a1639ff613": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "Miraflores",
+    "postcode": "15063",
+    "district": "Armendáriz",
+    "suburb": "Miraflores",
+    "street": "Malecón de la Reserva",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -77.0309293,
+    "lat": -12.1316676,
+    "state_code": "LIM",
+    "housenumber": "610",
+    "result_type": "building",
+    "formatted": "Malecón de la Reserva 610, Miraflores, Miraflores 15063, Peru",
+    "address_line1": "Malecón de la Reserva 610",
+    "address_line2": "Miraflores, Miraflores 15063, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V4VX99+8J",
+    "rank": {
+      "importance": 0.05341063477531087,
+      "popularity": 7.738300342573749,
+      "confidence": 1,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "confidence_building_level": 1,
+      "match_type": "full_match"
+    },
+    "place_id": "513effe2befa4153c059b8e287ef694328c0c00203",
+    "bbox": {
+      "lon1": -77.0279175,
+      "lat1": -12.135806,
+      "lon2": -77.027357,
+      "lat2": -12.1349571
+    }
+  },
+  "733ea23a601a00f6ac83bec8933b0406b8a360efe15d43185025107d00dabb71": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "Real Plaza Arequipa",
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Arequipa",
+    "state": "Arequipa",
+    "city": "Cayma",
+    "postcode": "04100",
+    "district": "Urbanización Avidge",
+    "suburb": "Cayma",
+    "quarter": "Leon XIII",
+    "street": "Avenida Ejército",
+    "housenumber": "1009",
+    "iso3166_2": "PE-ARE",
+    "lon": -71.5502445,
+    "lat": -16.3899166,
+    "state_code": "ARE",
+    "result_type": "amenity",
+    "formatted": "Real Plaza Arequipa, Avenida Ejército 1009, Cayma, Cayma 04100, Peru",
+    "address_line1": "Real Plaza Arequipa",
+    "address_line2": "Avenida Ejército 1009, Cayma, Cayma 04100, Peru",
+    "category": "commercial.shopping_mall",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57MCJC6X+2W",
+    "rank": {
+      "importance": 3.750133516437045e-05,
+      "popularity": 5.181322317828814,
+      "confidence": 1,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "confidence_building_level": 1,
+      "match_type": "full_match"
+    },
+    "place_id": "517313b53437e351c059e22a0593d16330c0f00102f901984b021100000000c002019203135265616c20506c617a61204172657175697061",
+    "bbox": {
+      "lon1": -71.5509638,
+      "lat1": -16.3906171,
+      "lon2": -71.5492267,
+      "lat2": -16.389078
+    }
+  },
+  "20ba13d9ce39069d477904bcdf10ee4377c489aa4b4956447a5db59de33dde85": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "San Borja",
+    "postcode": "15038",
+    "district": "Urb. Juan XXIII",
+    "suburb": "San Borja",
+    "street": "Avenida Aviación",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -77.0006656,
+    "lat": -12.1092046,
+    "state_code": "LIM",
+    "housenumber": "3596",
+    "result_type": "building",
+    "formatted": "Avenida Aviación 3596, San Borja, San Borja 15038, Peru",
+    "address_line1": "Avenida Aviación 3596",
+    "address_line2": "San Borja, San Borja 15038, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V4VXRX+8P",
+    "rank": {
+      "importance": 0.05341063477531087,
+      "popularity": 7.738300342573749,
+      "confidence": 0.75,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "confidence_building_level": 0.75,
+      "match_type": "full_match"
+    },
+    "place_id": "51dd8ebae70a4053c059412553aae93728c0c00203",
+    "bbox": {
+      "lon1": -77.0007361,
+      "lat1": -12.1115149,
+      "lon2": -77.0003484,
+      "lat2": -12.1087089
+    }
+  },
+  "ac22171a97c9612de2b6b01f020f2a4908f49f1ad87424e8b24e5091a3f1c46b": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "Urban Plaza El Polo",
+    "other_names": {
+      "short_name": "Urban Plaza"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Lima",
+    "state": "Lima",
+    "county": "Lima Metropolitan Area",
+    "city": "Santiago de Surco",
+    "postcode": "15023",
+    "district": "El Derby de Monterrico",
+    "suburb": "Monterrico",
+    "street": "Avenida El Polo",
+    "housenumber": "695",
+    "iso3166_2": "PE-LIM",
+    "iso3166_2_sublevel": "PE-LMA",
+    "lon": -76.9721186,
+    "lat": -12.1012422,
+    "state_code": "LIM",
+    "result_type": "amenity",
+    "county_code": "LI",
+    "formatted": "Urban Plaza El Polo, Avenida El Polo 695, Monterrico, Santiago de Surco 15023, Peru",
+    "address_line1": "Urban Plaza El Polo",
+    "address_line2": "Avenida El Polo 695, Monterrico, Santiago de Surco 15023, Peru",
+    "category": "building.commercial",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V5V2XH+G5",
+    "plus_code_short": "V2XH+G5 Santiago de Surco, Lima Metropolitan Area, Peru",
+    "rank": {
+      "importance": 7.730144197752372e-05,
+      "popularity": 7.330939852608777,
+      "confidence": 0,
+      "confidence_city_level": 0,
+      "confidence_street_level": 0,
+      "confidence_building_level": 0,
+      "match_type": "inner_part"
+    },
+    "place_id": "5155b5ee30373e53c0593ff38304d63328c0f00102f901791b2c1a00000000c00201920313557262616e20506c617a6120456c20506f6c6fe203236f70656e7374726565746d61703a616464726573733a7761792f343339303938323333",
+    "bbox": {
+      "lon1": -76.9724869,
+      "lat1": -12.1014987,
+      "lon2": -76.9717504,
+      "lat2": -12.1009841
+    }
+  },
+  "e9913469676e6449ada31f4bf0f98cb44d6faffd9a6de7f86a7299fe99e28c3b": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "Jorge Chávez International Airport",
+    "other_names": {
+      "iata": "LIM",
+      "icao": "SPJC",
+      "name": "Aeropuerto Internacional Jorge Chávez",
+      "name:es": "Aeropuerto Internacional Jorge Chávez",
+      "name:zh": "豪尔赫·查韦斯国际机场",
+      "alt_name": "Lima International Airport;Jorge Chavez Intl"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "state": "Callao",
+    "county": "Callao",
+    "state_district": "Lima Metropolitan Area",
+    "city": "Callao",
+    "postcode": "07031",
+    "district": "Andres Avelino Caceres",
+    "street": "Morales Duarez Avenue",
+    "iso3166_2": "PE-CAL",
+    "lon": -77.1172554,
+    "lat": -12.0279516,
+    "result_type": "amenity",
+    "formatted": "Jorge Chávez International Airport, Morales Duarez Avenue, Callao 07031, Peru",
+    "address_line1": "Jorge Chávez International Airport",
+    "address_line2": "Morales Duarez Avenue, Callao 07031, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V4XVCM+R3",
+    "plus_code_short": "XVCM+R3 Callao, Peru",
+    "rank": {
+      "importance": 0.49063186369175643,
+      "confidence": 0.9,
+      "confidence_city_level": 1,
+      "match_type": "full_match"
+    },
+    "place_id": "51e211cb1c814753c059e3bd0fac4f0e28c0f00102f90105da0c1700000000c002019203234a6f726765204368c3a176657a20496e7465726e6174696f6e616c20416972706f7274",
+    "bbox": {
+      "lon1": -77.135921,
+      "lat1": -12.0410128,
+      "lon2": -77.0997703,
+      "lat2": -11.998048
+    }
+  },
+  "1b25a8c29c72ba6fa8b2594c9ca9f573ba0f1b48ecfd47e45fe81a7396962189": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "Jorge Chávez International Airport",
+    "other_names": {
+      "iata": "LIM",
+      "icao": "SPJC",
+      "name": "Aeropuerto Internacional Jorge Chávez",
+      "name:es": "Aeropuerto Internacional Jorge Chávez",
+      "name:zh": "豪尔赫·查韦斯国际机场",
+      "alt_name": "Lima International Airport;Jorge Chavez Intl"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "state": "Callao",
+    "county": "Callao",
+    "state_district": "Lima Metropolitan Area",
+    "city": "Callao",
+    "postcode": "07031",
+    "district": "Andres Avelino Caceres",
+    "street": "Morales Duarez Avenue",
+    "iso3166_2": "PE-CAL",
+    "lon": -77.1172554,
+    "lat": -12.0279516,
+    "result_type": "amenity",
+    "formatted": "Jorge Chávez International Airport, Morales Duarez Avenue, Callao 07031, Peru",
+    "address_line1": "Jorge Chávez International Airport",
+    "address_line2": "Morales Duarez Avenue, Callao 07031, Peru",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57V4XVCM+R3",
+    "plus_code_short": "XVCM+R3 Callao, Peru",
+    "rank": {
+      "importance": 0.49063186369175643,
+      "confidence": 0.567,
+      "confidence_city_level": 1,
+      "match_type": "full_match"
+    },
+    "place_id": "51e211cb1c814753c059e3bd0fac4f0e28c0f00102f90105da0c1700000000c002019203234a6f726765204368c3a176657a20496e7465726e6174696f6e616c20416972706f7274",
+    "bbox": {
+      "lon1": -77.135921,
+      "lat1": -12.0410128,
+      "lon2": -77.0997703,
+      "lat2": -11.998048
+    }
   }
 }
