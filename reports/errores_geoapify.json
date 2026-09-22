@@ -1,14 +1,1 @@
-[
-  {
-    "id_promocion": "PR-E94DC7C8E394",
-    "nombre_promocion": "Montalvo For Men | Lunes a Miércoles",
-    "id_local": "PR-E94DC7C8E394-L053",
-    "nombre_local": "MONTALVO PLAZA MAYOR",
-    "direccion": "PASAJE NICOLáS DE RIBERA 106-112",
-    "consulta": "PASAJE NICOLáS DE RIBERA 106-112, Perú",
-    "longitud_consulta": 38,
-    "codigo_http": null,
-    "motivo": "TimeoutError: The read operation timed out",
-    "respuesta": ""
-  }
-]
+[]

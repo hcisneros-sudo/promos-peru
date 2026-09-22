@@ -109976,5 +109976,62 @@
       "lon2": -77.0997703,
       "lat2": -11.998048
     }
+  },
+  "fece7d4847ca81802092a745505022271a5b51e5f44a48f2454ebe18fd4132e1": {
+    "datasource": {
+      "sourcename": "openstreetmap",
+      "attribution": "© OpenStreetMap contributors",
+      "license": "Open Database License",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    "name": "Cibertec - Arequipa",
+    "ref": "1703867",
+    "other_names": {
+      "ref": "1703867"
+    },
+    "country": "Peru",
+    "country_code": "pe",
+    "region": "Province of Arequipa",
+    "state": "Arequipa",
+    "city": "Paucarpata",
+    "postcode": "04006",
+    "district": "Clisa",
+    "suburb": "Paucarpata",
+    "quarter": "Guardia Civil",
+    "street": "Avenida Porongoche",
+    "housenumber": "500",
+    "iso3166_2": "PE-ARE",
+    "lon": -71.5155743,
+    "lat": -16.4161744,
+    "state_code": "ARE",
+    "result_type": "amenity",
+    "formatted": "Cibertec - Arequipa, Avenida Porongoche 500, Paucarpata, Paucarpata 04006, Peru",
+    "address_line1": "Cibertec - Arequipa",
+    "address_line2": "Avenida Porongoche 500, Paucarpata, Paucarpata 04006, Peru",
+    "category": "education.school",
+    "timezone": {
+      "name": "America/Lima",
+      "offset_STD": "-05:00",
+      "offset_DST": "-05:00",
+      "offset_STD_seconds": -18000,
+      "offset_DST_seconds": -18000
+    },
+    "plus_code": "57MCHFMM+GQ",
+    "rank": {
+      "importance": 4.483787289230209e-05,
+      "popularity": 4.838126026222391,
+      "confidence": 0.9,
+      "confidence_city_level": 1,
+      "confidence_street_level": 1,
+      "confidence_building_level": 1,
+      "match_type": "full_match"
+    },
+    "place_id": "511e4a592bffe051c059b36ecd678a6a30c0f00103f9018c88864c01000000c002019203134369626572746563202d204172657175697061",
+    "bbox": {
+      "lon1": -71.5156243,
+      "lat1": -16.4162244,
+      "lon2": -71.5155243,
+      "lat2": -16.4161244
+    }
   }
 }
