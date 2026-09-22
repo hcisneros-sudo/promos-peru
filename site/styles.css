@@ -10,6 +10,7 @@
 }
 
 * { box-sizing: border-box; }
+[hidden] { display: none !important; }
 html { font-family: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif; color: var(--ink); background: var(--bg); }
 body { margin: 0; }
 body.modal-open { position: fixed; left: 0; right: 0; width: 100%; overflow: hidden; }
@@ -36,6 +37,9 @@ main { max-width: 1180px; margin: 0 auto; padding: 26px 20px 70px; }
 .multi-filter summary b { max-width: 56%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-size: 12px; }
 .multi-filter[open] summary, .advanced[open] > summary { border-color: var(--green); box-shadow: 0 0 0 2px rgba(11,150,125,.12); }
 .multi-options { position: absolute; z-index: 900; top: calc(100% + 6px); left: 0; width: min(310px, calc(100vw - 38px)); max-height: 290px; overflow: auto; background: #fff; border: 1px solid var(--line); border-radius: 13px; padding: 8px; box-shadow: 0 18px 45px rgba(8,38,59,.18); overscroll-behavior: contain; }
+.filter-search-wrap { position: sticky; top: -8px; z-index: 2; background: #fff; padding: 2px 0 8px; }
+.filter-search-input { width: 100% !important; height: 38px !important; border: 1px solid var(--line) !important; border-radius: 9px; padding: 0 10px; outline: none; background: #f8fafb !important; color: var(--ink); font: inherit; }
+.filter-search-input:focus { border-color: var(--green) !important; box-shadow: 0 0 0 2px rgba(11,150,125,.12); }
 .multi-options label { display: flex; align-items: center; gap: 9px; padding: 8px; border-radius: 8px; cursor: pointer; font-size: 13px; }
 .multi-options label:hover { background: #eef7f5; }
 .multi-options input { accent-color: var(--green); width: 17px; height: 17px; }
